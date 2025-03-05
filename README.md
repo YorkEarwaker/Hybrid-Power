@@ -16,3 +16,7 @@ DONE
 
 * Combined power 
 * Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power)
+
+Centralised distribution - central electrical authority
+* Mains electricity, 
+* Power grid
