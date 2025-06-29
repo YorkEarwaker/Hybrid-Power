@@ -1,6 +1,6 @@
 # Hybrid power hpr
 
-Renewable power, hydrogen fuel cell, grid integration, combined heat and power, 
+Renewable power, hydrogen fuel cell, grid integration, combined heat and power, micro grid, 
 
 ## Status
 
