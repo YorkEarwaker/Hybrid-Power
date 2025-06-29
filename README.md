@@ -19,8 +19,12 @@ DONE
 ## References
 
 * Combined power 
-* Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power)
+* Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power) 
+* Micro Grid, 
 
 Centralised distribution - central electrical authority
 * Mains electricity, 
 * Power grid
+
+News Papers - power supply 
+Rewiring California: Outages & Innovation, 06/25/2025, Earth Focus, Season 6 Episode 1, PBS, [WS](https://www.pbs.org/video/rewiring-california-outages-innovation-0lmu2k/), Across California, communities and companies are tackling power outages and wildfires by upgrading outdated infrastructure—from burying power lines in La Jolla to building solar microgrids on tribal lands. Learn how local efforts are shaping a safer, more resilient energy future.
