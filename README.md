@@ -18,10 +18,29 @@ DONE
 
 ## References
 
+Terms
 * Adaptive power
 * Combined power 
 * Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power) 
 * Micro Grid, 
+
+Solar
+* monocrytaline silicon vs polycrystaline silicon, monocrytaline more efficient conversion of photon energy, 
+* silicon pv, limit crica 29% top limit of photon energy converson, specific band gap of photon wavelength, limited spectra obsorbsion, 
+* perovskite pv, emerging tech, as silicon challenger, but toxic, crytal structure, heavy metal like lead at center of crystal, 
+* organics pv, emerging tech, thermal evaporation, cooling, restruct bandwith to absorb infrared, 
+* building integrated pv, like glass pv, use spectral band other than visible, 
+* indoor pv, indoor light photon conversion, as opposed to sun photons, 
+* embbeded energy balance pv, used to make pv, energy payback time, energy produced exceeding energy needed to create it, orders of magnitude, 
+* hybrid pv thermal, silicon and heat recovery, photon energy and heat, for hot water for home 2 units of heat for 1 unit of energy, storing heat cheaeper and easier than storing electrons, 
+* csp, thermal storage, 
+
+Network and Storage
+* dispatchability, ability to release energy on demand, of renewables, 
+* distributablity, move the energy, transmitability, 
+* power networks, 
+* gravity battery, 
+* conversion efficiency, 
 
 Centralised distribution - central electrical authority
 * Mains electricity, 
@@ -32,3 +51,7 @@ Systems theory
 
 News Papers - power supply 
 * Rewiring California: Outages & Innovation, 06/25/2025, Earth Focus, Season 6 Episode 1, PBS, [WS](https://www.pbs.org/video/rewiring-california-outages-innovation-0lmu2k/), Across California, communities and companies are tackling power outages and wildfires by upgrading outdated infrastructure—from burying power lines in La Jolla to building solar microgrids on tribal lands. Learn how local efforts are shaping a safer, more resilient energy future.
+
+
+News Papers - solar tech, silicon cells, bio cells, solar for cooling
+* Beyond Silicon: The Future of Solar Energy (Ep 33): Prof. Christos Markides & Dr Flurin Eisner, [YT](https://www.youtube.com/watch?v=GSXmxIc3a4U), Energy Futures Lab, Imperial, 
