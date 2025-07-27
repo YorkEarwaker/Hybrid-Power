@@ -55,3 +55,5 @@ News Papers - power supply
 
 News Papers - solar tech, silicon cells, bio cells, solar for cooling
 * Beyond Silicon: The Future of Solar Energy (Ep 33): Prof. Christos Markides & Dr Flurin Eisner, [YT](https://www.youtube.com/watch?v=GSXmxIc3a4U), Energy Futures Lab, Imperial, 
+* How South Africa is using solar to tackle power cuts, BBC News, [YT](https://www.youtube.com/watch?v=LsjL580vL9g), 27 Jul 2025,  #SouthAfrica #SolarPower #BBCNews
+
