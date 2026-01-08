@@ -52,8 +52,17 @@ Systems theory
 News Papers - power supply 
 * Rewiring California: Outages & Innovation, 06/25/2025, Earth Focus, Season 6 Episode 1, PBS, [WS](https://www.pbs.org/video/rewiring-california-outages-innovation-0lmu2k/), Across California, communities and companies are tackling power outages and wildfires by upgrading outdated infrastructure—from burying power lines in La Jolla to building solar microgrids on tribal lands. Learn how local efforts are shaping a safer, more resilient energy future.
 
-
 News Papers - solar tech, silicon cells, bio cells, solar for cooling
 * Beyond Silicon: The Future of Solar Energy (Ep 33): Prof. Christos Markides & Dr Flurin Eisner, [YT](https://www.youtube.com/watch?v=GSXmxIc3a4U), Energy Futures Lab, Imperial, 
 * How South Africa is using solar to tackle power cuts, BBC News, [YT](https://www.youtube.com/watch?v=LsjL580vL9g), 27 Jul 2025,  #SouthAfrica #SolarPower #BBCNews
 
+News Paper - natural gas
+* The Health Risks of Gas Stoves Explained, [WS](https://www.scientificamerican.com/article/the-health-risks-of-gas-stoves-explained/), Gas stoves produce emissions that can harm human health and the environment. Experts answer questions about the dangers and how to limit them, 19 January 2023, Tanya Lewis (writer), Dean Visser (editor)
+
+Molecules produced by burning natural gas, indoor air quality IAQ
+* Carbon Monoxide, CO [WP](https://en.wikipedia.org/wiki/Carbon_monoxide), burning, health
+* Methan, CHO4 [](), leakage, production to consumption, global warming gas
+* Benzene, , [](), leakage, from production to consumption, health, carcinogenic, carcinogen, 
+* Carbon Dioxide, CO2, [](), burning, health
+* Water, H2O, [](),  burning, health, damp conditions encourage black mold,
+* ...
