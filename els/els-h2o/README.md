@@ -25,7 +25,7 @@ News Papers - hydrogen
 * What is hydrogen? [WS](https://www.nationalgrid.com/stories/energy-explained/what-is-hydrogen), National Grid, UK
 
 News Papers - hydrogen infrastructure
-*  [WS](https://www.nationalgas.com/future-energy/hydrogen), National Gas, UK, reuse of gas pipeline infrastructure for switch to hydrogen, 
+* Hydrogen [WS](https://www.nationalgas.com/future-energy/hydrogen), National Gas, UK, reuse of gas pipeline infrastructure for switch to hydrogen, 
 
 
 
