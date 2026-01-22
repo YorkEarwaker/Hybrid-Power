@@ -2,6 +2,9 @@
 
 Electrolysis of water H2O to hydrogen with renewable/sustainable/green (wind, solar pv, ..) energy for green hydrogen. 
 
+See also
+* condenser project 
+
 ## Notes
 
 Principle
@@ -23,7 +26,6 @@ TODO
 * <todo: consider, hydrogen production as close to source use as possible, when is that practical and safe and when not, >
 * <todo: consider, just in time, jit hydrogen production in product that uses it, workable? separate stadards based els-h2o compoenents, make jit h component, use jit h coponent say boiler, >
 * <todo: consider, edge production different from jit production, much like solar PV for small scale use, safty an issue here, also with hybrid power units could be converted to electricity at the edge for immediate use or sold to the network,  >
-* <todo: consider, condenser, H liquifaction, ... h gas network pipeline IO interface, feed in to network, longer term storage, consider as seperate project, with dependency on this els-h2o project, what are the limits on scale? how small/portable a unit might be produced, t-shirt sizing - XS S M L XL XXL - for different use cases, >
 
 DONE
 * <done: consider, intent to commit, >
@@ -35,7 +37,7 @@ Terms
 * Green hydrogen, 
 
 Papers
-* Development of a condensing-type hydrogen liquefaction system for improving cooling efficiency and long-term storage, [WS](https://www.sciencedirect.com/science/article/pii/S0360319923053132), International Journal of Hydrogen Energy, Volume 49, Part B, 2 January 2024, Pages 1558-1571
+* ..
 
 News Papers - hydrogen
 * The hydrogen colour spectrum, [WS](https://www.nationalgrid.com/stories/energy-explained/hydrogen-colour-spectrum), National Grid, UK, 
