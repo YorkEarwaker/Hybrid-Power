@@ -42,6 +42,7 @@ Papers
 News Papers - hydrogen
 * The hydrogen colour spectrum, [WS](https://www.nationalgrid.com/stories/energy-explained/hydrogen-colour-spectrum), National Grid, UK, 
 * What is hydrogen? [WS](https://www.nationalgrid.com/stories/energy-explained/what-is-hydrogen), National Grid, UK
+* Renewable hydrogen, [WS](https://energy.ec.europa.eu/topics/eus-energy-system/hydrogen/renewable-hydrogen_en), European Commission 
 
 News Papers - hydrogen infrastructure
 * Hydrogen [WS](https://www.nationalgas.com/future-energy/hydrogen), National Gas, UK, reuse of gas pipeline infrastructure for switch to hydrogen, 
