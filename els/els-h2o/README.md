@@ -1,5 +1,7 @@
 # Electrolysis of Water els-h2o
 
+
+
 ## Notes
 
 Safety, 
@@ -11,6 +13,7 @@ TODO
 * <todo: consider, hydrogen transportation, liquid hydorgen container, gas pipeline, other, >
 * <todo: consider, hydrogen storage, lh container, gas container, other, >
 * <todo: consider, hydrogen production as close to source use as possible, when is that practical and safe and when not, >
+* <todo: consider, just in time, jit hydrogen production in product that uses it, workable? separate stadards based els-h2o compoenents, >
 
 DONE
 * <done: consider, intent to commit, >
@@ -20,5 +23,10 @@ DONE
 News Papers - hydrogen
 * The hydrogen colour spectrum, [WS](https://www.nationalgrid.com/stories/energy-explained/hydrogen-colour-spectrum), National Grid, UK, 
 * What is hydrogen? [WS](https://www.nationalgrid.com/stories/energy-explained/what-is-hydrogen), National Grid, UK
+
+News Papers - hydrogen infrastructure
+*  [WS](https://www.nationalgas.com/future-energy/hydrogen), National Gas, UK, reuse of gas pipeline infrastructure for switch to hydrogen, 
+
+
 
 
