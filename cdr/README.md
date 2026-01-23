@@ -1,11 +1,16 @@
 # Condenser cdr
 
-Capture liquefaction transportation storage use. Issues of natural loss of gas to space, Hydrogen H2 and Helium He.
+Capture liquefaction transportation storage use. Issues of natural loss of gas to space, Hydrogen H and Helium He.
 
 ## Notes
 
 * Hydrogen condenser first class. first order of priority. 'green' fuel.
 * Helium production necessary for many other industrial purposes, for use in AGW dirigible project, 
+
+Questions
+* Helium not hybrid power applicable, (cold fusion issues aside), a distraction, consider elsewhere
+* Is the only practical source of Helium only natural gas related? 
+* After cryogenic distillation of Helium from natural gas what to do with Methane CH4 and other elements and molecules, inject back into Earth? 
 
 ## Status
 TODO
@@ -19,7 +24,10 @@ DONE
 ## References
 
 Terms
-* Hydrogen H, non renewable resource, element, highly combustible, electrolysis from water, 
+* Hydrogen-1 H, naturally occurring isotope, H2 gas diatomic molecule, non renewable resource, element, highly combustible, electrolysis from water, 
+* Hydrogen-2 deuterium, naturally occurring isotope, 
+* Hydrogen-3 tritium, naturally occurring isotope, 
+* Hydrogen dipole, hydrogen bond, 
 * Green hydrogen, 
 * Helium, He [WP](https://en.wikipedia.org/wiki/Helium), non renewable resource, element, not combustible, 
 * Helium-3, [WP](), stable isotope, Helium-3 (big bang), primordial nuclide, element created before Earth was formed, 
