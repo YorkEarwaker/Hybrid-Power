@@ -10,6 +10,7 @@ Sand battery
 * Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
 * In zones where components might be damaged due to locale specific conditions, that is in some scenarios, don't clump energy producing systems to avoid single point of generation failure. Built in redundancy where possible for energy storage unit.
 * Distinguish between usage scenarios; normal BAU conditions,  emergency deployment,  refugee camp, disaster zone, conflict zone, . So different product development tracks for different deployment scenarios. However positive ratchet effect as different scenario options likely share many core component elements. 
+* Don't make the perfect the enemy of the good.
 
 ## Status
 TODO
@@ -18,6 +19,21 @@ TODO
 
 DONE
 * <done: consider, intent to commit>
+
+## Bill of Materials
+
+### PoC - RYO thermal energy system, 'kit'
+* Soap stone, aggregate, crushed or like material. What are locale specific aggregate things at hand. 
+* Thermal energy container, to hold aggregate.
+* Solar PV panel, number? 1
+* Wind turbine small, number? 1
+* Sand aggregate heating elements, 
+* ... 
+
+### MVC - RYO +
+* As per PoC, but more components
+* Electrolysis for green hydrogen generation
+* ...
 
 ## References
 
