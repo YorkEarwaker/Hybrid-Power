@@ -3,11 +3,12 @@
 Chemical, aggregate 'sand', gravity, 
 
 ## Notes
-Sand battery, option for disrupted or destroyed infrastructure, disaster zone, conflict zone, refugee camps, . t-shirt sizing, SML, for different contexts. Resiliency, renewable green energy input, wind solar pv, green hydrogen, . Component modular system of system.
 
-A mature technology. Known solutions. Finland - and which other countries - already using them.
-
-Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
+Sand battery
+* Sand battery, option for disrupted or destroyed infrastructure, disaster zone, conflict zone, refugee camps, . t-shirt sizing, SML, for different contexts. Resiliency, renewable green energy input, wind solar pv, green hydrogen, . Component modular system of system.
+* A mature technology. Known solutions. Finland - and which other countries - already using them.
+* Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
+* In zones where components might be damaged due to locale specific conditions, that is in some scenarios, don't clump energy producing systems to avoid single point of generation failure. Built in redundancy where possible for energy storage unit.
 
 ## Status
 TODO
