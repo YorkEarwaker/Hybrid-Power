@@ -5,9 +5,14 @@ Chemical, aggregate 'sand', gravity,
 ## Notes
 Sand battery, option for disrupted or destroyed infrastructure, disaster zone, conflict zone, . t-shirt sizing, SML, for different contexts. Resiliency, renewable green energy input, wind solar pv, green hydrogen, . Component modular system of system.
 
+A mature technology. Known solutions. Finland - and which other countries - already using them.
+
+Energy emergency crisis management. Distributed federated resiliency response to energy crises. 
+
 ## Status
 TODO
 * <todo: consider, first project, collate bill of materials, >
+* <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, CA, AU, ... >
 
 DONE
 * <done: consider, intent to commit>
