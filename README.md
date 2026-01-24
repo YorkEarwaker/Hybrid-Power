@@ -10,8 +10,9 @@ Sand battery
 * Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
 * In zones where components might be damaged due to locale specific conditions, that is in some scenarios, don't clump energy producing systems to avoid single point of generation failure. Built in redundancy where possible for energy storage unit.
 * Distinguish between usage scenarios; normal BAU conditions,  emergency deployment,  refugee camp, disaster zone, conflict zone, . So different product development tracks for different deployment scenarios. However positive ratchet effect as different scenario options likely share many core component elements. 
-* With adequate guidance, what is a minimal complexity deployment lowest tech solution option for a community to build and maintain themselves. Many hands make light work. Spread skill sets. The lower the complexity and lower the tech requirements the lower the system entropy and failure due to high complexity or overly sensitive components or lack of robustness. 
+* Emergency response solution, with adequate guidance, what is a minimal complexity deployment lowest tech solution option for a community to build and maintain themselves. Many hands make light work. Spread skill sets. The lower the complexity and lower the tech requirements the lower the system entropy and failure due to high complexity or overly sensitive components or lack of robustness. 
 * Urban setting solutions, high density building solutions, suburban solution, country side solutions, residential solution, community solution, ...
+* Highly complex solution for normal BAU conditions, 
 * Don't make the perfect the enemy of the good.
 
 ## Status
