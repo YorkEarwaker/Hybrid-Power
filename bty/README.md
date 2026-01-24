@@ -28,7 +28,7 @@ DONE
 * Thermal energy container, to hold aggregate.
 * Solar PV panel, number? 1
 * Wind turbine small, number? 1
-* Sand aggregate heating elements, 
+* Sand aggregate heating elements, heat exchangers, 
 * ... 
 
 ### MVC - RYO +
