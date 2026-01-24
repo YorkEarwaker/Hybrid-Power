@@ -9,6 +9,7 @@ Sand battery
 * A mature technology. Known solutions. Finland - and which other countries - already using them.
 * Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
 * In zones where components might be damaged due to locale specific conditions, that is in some scenarios, don't clump energy producing systems to avoid single point of generation failure. Built in redundancy where possible for energy storage unit.
+* Distinguish between usage scenarios; normal BAU conditions,  emergency deployment,  refugee camp, disaster zone, conflict zone, . So different product development tracks for different deployment scenarios. However positive ratchet effect as different scenario options likely share many core component elements. 
 
 ## Status
 TODO
