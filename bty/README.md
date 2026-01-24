@@ -1,6 +1,6 @@
 # Battery bty
 
-Chemical, aggregate 'sand', gravity, 
+Chemical, thermal mass aggregate 'sand', gravity, 
 
 ## Notes
 
@@ -21,4 +21,15 @@ DONE
 
 ## References
 
-Sand Battery, [WS](https://polarnightenergy.com/sand-battery/), 
+Terms
+* Thermal Energy Storage, [WP](https://en.wikipedia.org/wiki/Thermal_energy_storage)
+
+COTS products
+* Sand Battery, [WS](https://polarnightenergy.com/sand-battery/), 
+* <todo: consider, source others, >
+
+Thermal mass aggregate
+* Soap Stone, [](), 
+* ...
+* ...
+
