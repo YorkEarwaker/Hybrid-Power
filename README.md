@@ -1,61 +1,68 @@
-# Battery bty
+# Hybrid power hpr
 
-Chemical, thermal mass aggregate 'sand' 'salt' ..., gravity, cryogenic, 
-
-## Notes
-
-Sand battery
-* Sand battery, option for disrupted or destroyed infrastructure, disaster zone, conflict zone, refugee camps, . t-shirt sizing, SML, for different contexts. Resiliency, renewable green energy input, wind solar pv, green hydrogen, . Component modular system of system.
-* A mature technology. Known solutions. Finland - and which other countries - already using them.
-* Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
-* In zones where components might be damaged due to locale specific conditions, that is in some scenarios, don't clump energy producing systems to avoid single point of generation failure. Built in redundancy where possible for energy storage unit.
-* Distinguish between usage scenarios; normal BAU conditions,  emergency deployment,  refugee camp, disaster zone, conflict zone, . So different product development tracks for different deployment scenarios. However positive ratchet effect as different scenario options likely share many core component elements. 
-* Emergency response solution, with adequate guidance, what is a minimal complexity deployment lowest tech solution option for a community to build and maintain themselves. Many hands make light work. Spread skill sets. The lower the complexity and lower the tech requirements the lower the system entropy and failure due to high complexity or overly sensitive components or lack of robustness. 
-* Urban setting solutions, high density building solutions, suburban solution, country side solutions, residential solution, community solution, ...
-* Highly complex solution for normal BAU conditions, 
-* Don't make the perfect the enemy of the good.
+Renewable power, hydrogen fuel cell, grid integration, combined heat and power, micro grid, 
 
 ## Status
+
 TODO
-* <todo: consider, first project, collate bill of materials, >
-* <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, AU, CA, KR, JP, others, funding & expertise. Deploy first test PoC unit in a month? Possible with a dedicated team will and funding. Energy engineering activity. >
+* <todo: consider, as commercial operation, second order of importance>
+* <todo: consider, FOSS and FOSH approach for different scale solutions, t-shirting small medium large, open source creative commons, as with climate model \amn project>
+* <todo: consider, start with small family unit capability, likely medium community 'village' north/south might have higher impact, large 'town' requires more top down, >
+* <todo: consider, small family unit, getting people connected, information access, enabling to start small enterprises, enabling for energy self sufficiency, >
+* <todo: consider, different context; small family unit urban poor global south, small family unit countryside poor global south, small family unit urban poor global north, small family unit countryside poor global north,  >
+* <todo: consider, as part of climate model weather station related power system, large station unit and remote locales without reliable or with no mains electricity>
+* <todo: consider, smaller units for supply to homes or communities, distributed federted power generation help in resillency, >
 
 DONE
-* <done: consider, intent to commit>
-
-## Bill of Materials
-
-### PoC - RYO thermal energy system, 'kit'
-* Soap stone, aggregate, crushed or like material. What are locale specific aggregate things at hand that are equivalents or near.
-* Thermal energy container, to hold aggregate.
-* Solar PV panel, number? 1
-* Wind turbine small, number? 1
-* Sand aggregate heating elements, heat exchangers, 
-* ... 
-
-### MVC - RYO +
-* As per PoC, but more components
-* Electrolysis for green hydrogen generation
-* ...
+* <done: intent to commit>
 
 ## References
 
 Terms
-* Thermal energy storage, [WP](https://en.wikipedia.org/wiki/Thermal_energy_storage)
-* Thermal battery TBat, first priority
-* Cryogenic battery
-* Gravity battery
-* Chemical battery
+* Adaptive power
+* Combined power 
+* Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power) 
+* Micro Grid, 
 
-COTS products
-* Sand Battery, [WS](https://polarnightenergy.com/sand-battery/), 
-* <todo: consider, source others, >
+Solar
+* monocrytaline silicon vs polycrystaline silicon, monocrytaline more efficient conversion of photon energy, 
+* silicon pv, limit crica 29% top limit of photon energy converson, specific band gap of photon wavelength, limited spectra obsorbsion, 
+* perovskite pv, emerging tech, as silicon challenger, but toxic, crytal structure, heavy metal like lead at center of crystal, 
+* organics pv, emerging tech, thermal evaporation, cooling, restruct bandwith to absorb infrared, 
+* building integrated pv, like glass pv, use spectral band other than visible, 
+* indoor pv, indoor light photon conversion, as opposed to sun photons, 
+* embbeded energy balance pv, used to make pv, energy payback time, energy produced exceeding energy needed to create it, orders of magnitude, 
+* hybrid pv thermal, silicon and heat recovery, photon energy and heat, for hot water for home 2 units of heat for 1 unit of energy, storing heat cheaeper and easier than storing electrons, 
+* csp, thermal storage, 
 
-Thermal mass aggregate
-* Soap Stone, [](), 
+Network and Storage
+* dispatchability, ability to release energy on demand, of renewables, 
+* distributablity, move the energy, transmitability, 
+* power networks, 
+* gravity battery, 
+* conversion efficiency, 
+
+Centralised distribution - central electrical authority
+* Mains electricity, 
+* Power grid
+
+Systems theory
+* Complex adaptive system, 
+
+News Papers - power supply 
+* Rewiring California: Outages & Innovation, 06/25/2025, Earth Focus, Season 6 Episode 1, PBS, [WS](https://www.pbs.org/video/rewiring-california-outages-innovation-0lmu2k/), Across California, communities and companies are tackling power outages and wildfires by upgrading outdated infrastructure—from burying power lines in La Jolla to building solar microgrids on tribal lands. Learn how local efforts are shaping a safer, more resilient energy future.
+
+News Papers - solar tech, silicon cells, bio cells, solar for cooling
+* Beyond Silicon: The Future of Solar Energy (Ep 33): Prof. Christos Markides & Dr Flurin Eisner, [YT](https://www.youtube.com/watch?v=GSXmxIc3a4U), Energy Futures Lab, Imperial, 
+* How South Africa is using solar to tackle power cuts, BBC News, [YT](https://www.youtube.com/watch?v=LsjL580vL9g), 27 Jul 2025,  #SouthAfrica #SolarPower #BBCNews
+
+News Paper - natural gas
+* The Health Risks of Gas Stoves Explained, [WS](https://www.scientificamerican.com/article/the-health-risks-of-gas-stoves-explained/), Gas stoves produce emissions that can harm human health and the environment. Experts answer questions about the dangers and how to limit them, 19 January 2023, Tanya Lewis (writer), Dean Visser (editor)
+
+Molecules produced by burning natural gas, indoor air quality IAQ
+* Carbon Monoxide, CO [WP](https://en.wikipedia.org/wiki/Carbon_monoxide), burning, health
+* Methan, CHO4 [](), leakage, production to consumption, global warming gas
+* Benzene, , [](), leakage, from production to consumption, health, carcinogenic, carcinogen, 
+* Carbon Dioxide, CO2, [](), burning, health
+* Water, H2O, [](),  burning, health, damp conditions encourage black mold,
 * ...
-* ...
-
-News Papers
-* ‘A very Finnish thing’: Big sand battery starts storing wind and solar energy in crushed soapstone [WS](https://www.euronews.com/green/2025/06/15/sand-batteries-could-be-key-breakthrough-in-storing-solar-and-wind-energy-year-round), Updated 15/06/2025, Euro News, 
-
