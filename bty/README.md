@@ -1,6 +1,6 @@
 # Battery bty
 
-Chemical, thermal mass aggregate 'sand', gravity, 
+Chemical, thermal mass aggregate 'sand' 'salt' ..., gravity, cryogenic, 
 
 ## Notes
 
@@ -40,7 +40,11 @@ DONE
 ## References
 
 Terms
-* Thermal Energy Storage, [WP](https://en.wikipedia.org/wiki/Thermal_energy_storage)
+* Thermal energy storage, [WP](https://en.wikipedia.org/wiki/Thermal_energy_storage)
+* Thermal battery TBat, first priority
+* Cryogenic battery
+* Gravity battery
+* Chemical battery
 
 COTS products
 * Sand Battery, [WS](https://polarnightenergy.com/sand-battery/), 
