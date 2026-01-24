@@ -12,7 +12,7 @@ Energy emergency crisis management. Distributed federated resiliency response to
 ## Status
 TODO
 * <todo: consider, first project, collate bill of materials, >
-* <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, CA, AU, ... >
+* <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, CA, AU, ... deploy first test PoC unit in a month? Possible with a dedicated team will and funding. Energy engineering activity. >
 
 DONE
 * <done: consider, intent to commit>
