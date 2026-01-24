@@ -7,7 +7,7 @@ Sand battery, option for disrupted or destroyed infrastructure, disaster zone, c
 
 A mature technology. Known solutions. Finland - and which other countries - already using them.
 
-Energy emergency crisis management. Distributed federated resiliency response to energy crises. 
+Energy emergency crisis management. Distributed federated resiliency response to energy crises. Small scale stand alone hub and spoke. Not large scale single point of failure. Secondly link the small scale hubs for network effects. 
 
 ## Status
 TODO
