@@ -19,6 +19,7 @@ Sand battery
 TODO
 * <todo: consider, first project, collate bill of materials, >
 * <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, AU, CA, KR, JP, others, funding & expertise. Deploy first test PoC unit in a month? Possible with a dedicated team will and funding. Energy engineering activity. >
+* <todo: consider, making thermal battery/sand battery a sub project to batter, /thr-bty, move related content there, >
 
 DONE
 * <done: consider, intent to commit>
