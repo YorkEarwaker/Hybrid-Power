@@ -21,8 +21,12 @@ DONE
 Terms
 * Adaptive power
 * Combined power 
+* Energy, article [WP](), category [WP](https://en.wikipedia.org/wiki/Category:Energy), portal [WP](https://en.wikipedia.org/wiki/Portal:Energy), project [WP](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Energy),
 * Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power) 
+
+Infrastructure - ingress, egress, 
 * Micro Grid, 
+* Pipeline, article [WP](https://en.wikipedia.org/wiki/Pipeline), hydrogen, water, other commodities, in relation to this project commodity transport related to energy and power generation
 
 Solar
 * monocrytaline silicon vs polycrystaline silicon, monocrytaline more efficient conversion of photon energy, 
