@@ -10,6 +10,7 @@ See also
 * <todo: consider, which is best specifically for cooling water, >
 * <todo: consider, which is best for refrigeration, >
 * <todo: consider, if C02 how could these heat transfer units be part of C02 extraction from the atmosphere, as opposed to buring fossile fuels to make C02 for example, carbon dioxide removal cdr, direct air capture dac, >
+
 | Refrigerant | Type | GWP | ODP | Safety Class | Flammability |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **R-717 (Ammonia)** | Inorganic (Natural) | **0** | 0 | B2L | Mild |
@@ -31,5 +32,3 @@ See also
 * Ozone Depletion Potential ODP, refrigerants, zero is better,
 * POE, lubricants, refrigerants, 
 * <todo: other kinds of thing to be sourced, >
-
-
