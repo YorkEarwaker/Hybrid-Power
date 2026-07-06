@@ -1,6 +1,9 @@
 # Battery bty
 
-Chemical, thermal mass aggregate 'sand' 'salt' ..., gravity, cryogenic, 
+Chemical, thermal mass aggregate 'sand' 'salt' ..., gravity, cryogenic, flywheel, spring, pumped hydro, ...
+
+See also
+* Heat pump, as a means to capture energy, heat transfer
 
 ## Notes
 
@@ -42,6 +45,10 @@ DONE
 ## References
 
 Terms
+* Power storage, [WP](https://en.wikipedia.org/wiki/Energy_storage)
+* Mechanical Battery,
+* Flywheel
+* Compressed air
 * Thermal energy storage, [WP](https://en.wikipedia.org/wiki/Thermal_energy_storage)
 * Thermal battery TBat, first priority
 * Cryogenic battery
