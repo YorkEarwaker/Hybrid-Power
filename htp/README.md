@@ -1,7 +1,13 @@
 # Heat pump htp
 
 See also
+* Battery, bty
 * Condenser cdr
+
+## Notes
+
+* Satellite spacecraft temperature regulating systems for use as air cooling systems on Earth. 
+* Aerospace thermal engineering
 
 ## Refrigerants
 
