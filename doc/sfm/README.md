@@ -1,5 +1,11 @@
 # Solar farm sfm <todo: consider renaming, >
 
+A whole system made of parts of related hybrid power project repo and other project repo's
+
+See also
+* Electrical engineering
+* Water
+
 ## Status
 
 TODO

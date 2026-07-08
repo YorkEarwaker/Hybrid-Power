@@ -12,7 +12,8 @@ See also
 Objectives
 * remove carbon dioxide from the atmosphere
 * remove carbon dioxide from buildings
-* crate carbon dioxide for use as refrigerant
+* capture carbon dioxide for use as refrigerant
+* ...
 
 ## Status
 TODO
