@@ -9,13 +9,62 @@ See also
 * Satellite spacecraft temperature regulating systems for use as air cooling systems on Earth. 
 * Aerospace thermal engineering
 
-## Refrigerants
-
+## Status
+TODO
 * <todo: consider, sample pruduced by Brave search, confirm this it true, confirm these are best, >
 * <todo: consider, which is best overall, as a component for all types of heat transfer, heat pump, >
 * <todo: consider, which is best specifically for cooling water, >
 * <todo: consider, which is best for refrigeration, >
 * <todo: consider, if C02 how could these heat transfer units be part of C02 extraction from the atmosphere, as opposed to buring fossile fuels to make C02 for example, carbon dioxide removal cdr, direct air capture dac, >
+
+DONE
+* <done: consider, intent to commit>
+
+## Bill of Materials BoM
+First project to build your own heat pump byohp
+* <todo: consider, which if any of the hardware component could be 3d printed, >
+* <todo: consider, using c02 as a refigerant incrased cost  by x2 x3 due to hight pressure requirements, component BoM changes as a consequence, ponder on refrigerant more, >
+
+Dependency
+* electrical engineering tool set, helping hands, soldering iron, electric guage, mats of various kinds, 
+* work room and work bench 
+
+Estimated cost
+* components; £800 to £2500
+* efficiency; COP 3.0 to 4.0, for every 1 unit of electrical energy consumed produces 3-4 units of heat energy
+* tools; separate tools BoM, vacuum pump, manifold guage set, leak detector, torque wrenches, flaring tool, brazing kit
+
+Safety and legal codes
+* refrigerants
+* high voltage
+* pressure risks, shields for testing, 
+* permits
+* ..
+
+Hardware components
+* Compressor, to ? heating load, rotoary or scroll kinds, 2 to 5 kw for single room, heart of system, 
+* Heat exchangers, evaoporator coil - to capture heat from air outside, condensor coil - to release heat inside
+* Reversing valve, to switch between heating and cooling modes
+* Expansion device, to regulate refrigerant flow and pressure drop, thermal expansion valve TXV
+* Refrigerant, 
+* Controls and sensors, to manage temperature pressure and defrost cycles, microcontroller or single board computer, advanced HVAC? , 
+* Fans and motors, to move air across coils, high energy EC fans, 
+
+Design and Build
+* OpenEnergyMonitor, to simulate performance and size components
+* Sizing, to calculate heating load based on room size and insulation
+* Coil fabrication, to create copper coils for evaporator and condensor, bend copper tubing into tight even coils, 
+* Brazing, to create leak proof high pressure joints, oxy-acetylene brazing, use nitorgen purge to prevent internal oxidation, to join; compressor, coils, valve, expansion device
+* Vacuum and leak testing, to remove all air and moisture with vacuum pump, down to or below <500 microns, pressurize with nitrogen, use leak detector to find any leaks, 
+* Charging, fill system with refrigerant to specific weight, likely require certification UK/EU for handling certain refrigerants
+* Electrical component and controls, to wire everything together, micro electronics and programming, safety cut-offs and defrost cycle, high pressure, over temperature ... 
+* Commissioning, to measure and refine coefficient of performance COP, working system, 
+* ..
+
+Third party supliers of modular diy kits
+* Open Ecology, heat pump, water heat pump
+
+## Refrigerants
 
 | Refrigerant | Type | GWP | ODP | Safety Class | Flammability |
 | :--- | :--- | :--- | :--- | :--- | :--- |
