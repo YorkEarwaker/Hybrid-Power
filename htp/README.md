@@ -80,6 +80,7 @@ Third party supliers of modular diy kits
 Terms
 * Heat pump, [WP](https://en.wikipedia.org/wiki/Heat_pump), electrical power source, mechanical heat pump, 
 * Absorption heat pump. thermal power, air, geothermally heated water, steam solar heated water, natural gas burning, more complex, larger
+* Borehole field, ground, 
 * Heat transfer
 * Heat pump and refrigeration cycle [WP](https://en.wikipedia.org/wiki/Heat_pump_and_refrigeration_cycle)
 * Vapor Compression Refrigeration [WP](https://en.wikipedia.org/wiki/Heat_pump_and_refrigeration_cycle)
@@ -88,6 +89,11 @@ Terms
 * Ozone Depletion Potential ODP, refrigerants, zero is better,
 * POE, lubricants, refrigerants, 
 * <todo: other kinds of thing to be sourced, >
+
+Kinds
+* air to air
+* water to water
+* ..
 
 Papers - heat pumps
 * Unlocking heat pump flexibility to deliver low-carbon heating and support the electricity grid [WS](https://www.imperial.ac.uk/grantham/publications/all-publications/unlocking-heat-pump-flexibility-to-deliver-low-carbon-heating-and-support-the-electricity-grid.php), August 2026, Hui Yan, Jacek Pawlack, Aruna Sivakumar, Stephen Agyeman, Han Wang, etal, Energy and Low-Carbon Futures, Mitigation, Resources and Pollution, Grantham Institute, Imperial, [DIO](https://doi.org/10.25560/131725)
