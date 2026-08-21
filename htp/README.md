@@ -89,5 +89,8 @@ Terms
 * POE, lubricants, refrigerants, 
 * <todo: other kinds of thing to be sourced, >
 
-Papers
+Papers - heat pumps
 * Unlocking heat pump flexibility to deliver low-carbon heating and support the electricity grid [WS](https://www.imperial.ac.uk/grantham/publications/all-publications/unlocking-heat-pump-flexibility-to-deliver-low-carbon-heating-and-support-the-electricity-grid.php), August 2026, Hui Yan, Jacek Pawlack, Aruna Sivakumar, Stephen Agyeman, Han Wang, etal, Energy and Low-Carbon Futures, Mitigation, Resources and Pollution, Grantham Institute, Imperial, [DIO](https://doi.org/10.25560/131725)
+
+Papers - refrigerants
+* CO2 as a refrigerant for heating and cooling systems [PDF](https://assets.danfoss.com/documents/latest/356557/BE470937803806en-000101.pdf), Danfoss
