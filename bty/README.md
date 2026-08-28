@@ -56,6 +56,7 @@ Terms
 * Chemical battery
 
 COTS products
+* Manganise flow battery, [WS](https://www.certainenergy.com/), Certain Energy
 * Sand Battery, [WS](https://polarnightenergy.com/sand-battery/), 
 * <todo: consider, source others, >
 
