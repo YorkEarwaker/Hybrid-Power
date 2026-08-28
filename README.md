@@ -1,6 +1,6 @@
 # Hybrid power hpr
 
-Renewable power, hydrogen fuel cell, grid integration, combined heat and power, micro grid, 
+Power engineering, renewable power, hydrogen fuel cell, grid integration, combined heat and power, micro grid, 
 
 ## Status
 
@@ -23,6 +23,7 @@ Terms
 * Combined power 
 * Energy, article [WP](), category [WP](https://en.wikipedia.org/wiki/Category:Energy), portal [WP](https://en.wikipedia.org/wiki/Portal:Energy), project [WP](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Energy),
 * Hybrid power [WP](https://en.wikipedia.org/wiki/Hybrid_power) 
+* Power engineering [WP](https://en.wikipedia.org/wiki/Power_engineering)
 
 Infrastructure - ingress, egress, 
 * Micro Grid, 
