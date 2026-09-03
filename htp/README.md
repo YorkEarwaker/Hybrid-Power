@@ -6,6 +6,11 @@ See also
 
 ## Notes
 
+Objectives - primary
+* COTS component build, shortest time to market, fast prototyping, understand domain, proven component parts, integration
+* Greenfield component build, aka from scratch development, ground up development, recreating from first principles, learning by doing, interest 
+
+Objectives - secondary
 * Satellite spacecraft temperature regulating systems for use as air cooling systems on Earth. 
 * Aerospace thermal engineering
 
