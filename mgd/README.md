@@ -12,6 +12,7 @@ Objectives
 * National Disaster Management Agency, mobile power capability, 
 * National resillence and civil preparednes, NATO Article III
 * Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
+* Home Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ...
 
 ## Status
 TODO
