@@ -9,8 +9,9 @@ Objectives
 * Extreme weather event emergency management response and recovery
 * Climate refugee camps
 * Distributed federated power supply systems
-* National Disaster Management Agency, mobile power capability 
-* ...
+* National Disaster Management Agency, mobile power capability, 
+* National resillence and civil preparednes, NATO Article III
+* Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
 
 ## Status
 TODO
@@ -18,6 +19,9 @@ TODO
 * <todo: consider, similar micro grid solutions to us-army mil std 3071, system of systems, plug and play, what is the au ca de fr jp kr nz uk etal  equivalent? is this the defacto of dejure NATO standard, >
 * <todo: consider, determine when test tool set for mil std 3071 to be open sourced? eta?,  >
 * <todo: consider, how best to interoperate with renewably energy sources, solar, wind, tidal, hydrogen fuel cell, >
+* <todo: consider, how to conform to NATO interop and wider global resillence and civil preparedness, >
+* <todo: consider, find ISO standard in this domain is any exist, >
+* <todo: consider, how to weave this into global heating resillience frameworks emerging from UN, BRICS, P4M, others, >
 
 DONE
 * <done: consider, intent to commit>
