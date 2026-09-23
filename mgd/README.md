@@ -9,6 +9,7 @@ Objectives
 * Extreme weather event emergency management response and recovery
 * Climate refugee camps
 * Distributed federated power supply systems
+* National Disaster Management Agency, mobile power capability 
 * ...
 
 ## Status
@@ -25,6 +26,7 @@ DONE
 
 Standards
 * Data Distribution Service DDS, [WS](https://www.omg.org/omg-dds-portal/), OMG
+* Real Time Publish Subscribe RTPS, 
 * Tactical Microgrid Standard TMS, [WS](https://battery.army.mil/system-integrator-hub/tms/), MIL STD 3071, US Army
 * <todo: consider, other similar standards, >
 
@@ -32,7 +34,7 @@ Organisations
 * DDS Foundation, [WS](https://www.dds-foundation.org/) 
 * EDM Association, 
 * Object Management Group, 
-* US Army, repurposing military grade system solutions for civilian useUS Army's Tactical Microgrid Standard (TMS)
+* US Army, repurposing military grade system solutions based on open standards for civilian use
 
 ## References
 
