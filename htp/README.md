@@ -3,6 +3,7 @@
 See also
 * Battery, bty
 * Condenser cdr
+* Micro grid mgd, use of DDS
 
 ## Notes
 
@@ -13,6 +14,7 @@ Objectives - primary
 Objectives - secondary
 * Satellite spacecraft temperature regulating systems for use as air cooling systems on Earth. 
 * Aerospace thermal engineering
+* Data Distribution Services DDS, OMG, for internal component interoperability and componentization separatoin of concerns
 
 ## Status
 TODO
@@ -21,6 +23,8 @@ TODO
 * <todo: consider, which is best specifically for cooling water, >
 * <todo: consider, which is best for refrigeration, >
 * <todo: consider, if C02 how could these heat transfer units be part of C02 extraction from the atmosphere, as opposed to buring fossile fuels to make C02 for example, carbon dioxide removal cdr, direct air capture dac, >
+* <todo: consider, LaTeX diagramming for; mechancial engineering, power eingineering, >
+* <todo: consider, DDS OMG as internal componentization capability, that is plug and play component architecture, more expensive to start with but enable components to be replaced as standalone units, compressor as example, or controller unit, or controle panel, ...  >
 
 DONE
 * <done: consider, intent to commit>
