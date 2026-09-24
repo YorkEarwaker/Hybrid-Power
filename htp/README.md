@@ -3,7 +3,7 @@
 See also
 * Battery, bty
 * Condenser cdr
-* Micro grid mgd, use of DDS
+* Micro grid mgd, use of DDS as example
 
 ## Notes
 
