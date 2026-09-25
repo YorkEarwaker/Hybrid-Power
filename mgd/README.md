@@ -12,7 +12,7 @@ Objectives
 * National Disaster Management Agency, mobile power capability, 
 * National resillence and civil preparednes, NATO Article III
 * Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
-* Home Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ...
+* Home Grid, Building Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ... hospitals, 
 
 ## Status
 TODO
@@ -32,18 +32,12 @@ DONE
 Standards
 * Data Distribution Service DDS, [WS](https://www.omg.org/omg-dds-portal/), OMG
 * Real Time Publish Subscribe RTPS, 
-* Tactical Microgrid Standard TMS, [WS](https://battery.army.mil/system-integrator-hub/tms/), MIL STD 3071, US Army
-* <todo: consider, other similar standards, >
 
 Organisations
 * DDS Foundation, [WS](https://www.dds-foundation.org/) 
 * EDM Association, 
 * Object Management Group, 
-* US Army, repurposing military grade system solutions based on open standards for civilian use
 
 ## References
 
-
-News Papers - presentations
-* Modernizing Tactical Microgrids with TMS & DDS, [WS](https://www.brighttalk.com/webcast/12231/673028), Sep 23 2026, Nina Tucker Twin Oaks Computing and Gerardo Pardo RTI, BrightTalk
-
+* Micro grid
