@@ -23,20 +23,30 @@ TODO
 * <todo: consider, how to conform to NATO interop and wider global resillence and civil preparedness, >
 * <todo: consider, find ISO standard in this domain is any exist, >
 * <todo: consider, how to weave this into global heating resillience frameworks emerging from UN, BRICS, P4M, others, >
+* <todo: consider, other DDS based defence standards SOSA MOSA etal >
 
 DONE
 * <done: consider, intent to commit>
 
 ## Libs
 
-Standards
+Standards - power
+* <todo: consider, which of these are micro grid or could be used for same or interoperate with same, so what are interfaces and handoff, >
+* MIL STD 3071, us army, nato, micro grid
+* OpenFMB, 
+* SGIP
+* Smart Electic Power Alliance
+* TMSC tactical microgrid standard, <todo: consider, same as usm 3071?>
+
+Standards - teccnnical
 * Data Distribution Service DDS, [WS](https://www.omg.org/omg-dds-portal/), OMG
 * Real Time Publish Subscribe RTPS, 
 
 Organisations
 * DDS Foundation, [WS](https://www.dds-foundation.org/) 
 * EDM Association, 
-* Object Management Group, 
+* ISO, 
+* OMG, Object Management Group, 
 
 ## References
 
