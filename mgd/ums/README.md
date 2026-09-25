@@ -16,7 +16,8 @@ Objectives
 
 ## Status
 TODO
-* <todo: consider, first project with this for civilian use for heat pump >
+* <todo: consider, first project with this for civilian use for heat pump or hydrogen fuel cell or solar panel or hydron hot water boiler home product ... >
+* <todo: consider, CAN bus chip sets MCU's SBC's for genset controller unit >
 
 DONE
 * <done: consider, intent to commit>
