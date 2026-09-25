@@ -24,6 +24,7 @@ TODO
 * <todo: consider, find ISO standard in this domain is any exist, >
 * <todo: consider, how to weave this into global heating resillience frameworks emerging from UN, BRICS, P4M, others, >
 * <todo: consider, other DDS based defence standards SOSA MOSA etal >
+* <todo: consider, controller hardware MCU SBC are concern regarding emerging multipolar world, seperation of concern regarding civiliam and military use cases, even if the standards based approach makes systems of systems the dominant frame of reference, actual conrete use cases mean different hardware and software options my be required, >
 
 DONE
 * <done: consider, intent to commit>
@@ -47,6 +48,12 @@ Organisations
 * EDM Association, 
 * ISO, 
 * OMG, Object Management Group, 
+
+Certification
+* Directive 2014/34/EU, ATEX certification
+* UK <todo: consider, uk equivalent >
+* US <todo: consider, us equivalent >
+* <todo: consider, equivalents for au ca jp kr nz ua others, cert once and use in many juresdictions >
 
 ## References
 
