@@ -10,6 +10,7 @@ See also
 ## Notes
 
 Objectives
+* How to use in AGW project, the big picture is global heating extreme weather events and so on
 * Find interoperability with other standards
 * Promote this as for adoption as an ISO standard, an ISO standard and MIL STD 3071 would likely diverge from the start but both are important, ISO for civilian uses, but both might be used together? How? 
 * Use as interoperability with NATO Article III
@@ -78,6 +79,15 @@ EU - itar free, pre built pcb's, itar free, cots products,
 Connetor - variouse
 * CAN DB9 (D-sub9) connector (CANopen CiA 303-1), 
 
+## Output
+
+Context diagram 
+* wip, refine
+```
+    Source          Source         Source         Source      Storage
+  H2 Fuel Cell    Solar panel    Wind turbine    Generator    Battery   ...  
+```
+
 ## References
 
 Terms
@@ -87,12 +97,20 @@ Terms
 Bus architecture
 * <todo: consider, detemine CAN is still required bus architecture, >
 * CAN
-* CAN low speed 0.125 Mbit/s, 8 bytes, baud rate; fixed
-* CAN high speed 1 Mbit/s, 8 bytes, baud rate; fixed
+* CAN low speed, 0.125 Mbit/s, 8 bytes, baud rate; fixed
+* CAN high speed, 1 Mbit/s, 8 bytes, baud rate; fixed
 * CAN FD, 8 Mbit/s (data phase), 64 bytes, baud rate; variable faster data field
-* CAN XL, 20Mbit/s, 2048 bytes, baud rate;  variable higher rates
-* LIN, increasingly replacing CAN low speed
+* CAN XL, 20 Mbit/s, 2048 bytes, baud rate;  variable higher rates
+* LIN, 1-20 kbit/s, increasingly replacing CAN low speed
 * Automotive Ethernet (100BASE-T1)
+* EtherCAT, 100 Mbit/s <100 µs cycle,
+* ISOBus, 250 kbit/s
+* PROFINET IRT, 100 Mbit/s
+* SERCOS III, 100 Mbit/s
+* Modbus, 9.6-115.2 kbit/s
+* RS-485, 10 Mbit/s, legacy
+* FlexRay, 10 Mbit/s, drive by wire, safety critical, adas, 
+* Ethernet + TNS, 100 Mbit/s - 1Gbit/s +, x-by-wire, 
 * ...
 
 News Papers - presentations
@@ -101,4 +119,5 @@ News Papers - presentations
 News Papers - CAN
 * CAN Bus Explained - A Simple Intro  [WS](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial), 2026, CSS Electronics
 * CAN FD Explained - A Simple Intro [WS](https://www.csselectronics.com/pages/can-fd-flexible-data-rate-intro), 2026, CSS Electronics, 
+* LIN Bus Explained - A Simple Intro [WS](https://www.csselectronics.com/pages/lin-bus-protocol-intro-basics), 2026, CSS Electronics
 * ...
