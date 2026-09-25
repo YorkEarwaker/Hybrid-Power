@@ -49,9 +49,9 @@ Organisations
 * ISO, 
 * OMG, Object Management Group, 
 
-Certification
+Certification - compute controller safety certs
 * Directive 2014/34/EU, ATEX certification
-* UK <todo: consider, uk equivalent >
+* UKCA Explosive Atmosphere Regulations 2019 <todo: consider, uk equivalent >
 * US <todo: consider, us equivalent >
 * <todo: consider, equivalents for au ca jp kr nz ua others, cert once and use in many juresdictions >
 
