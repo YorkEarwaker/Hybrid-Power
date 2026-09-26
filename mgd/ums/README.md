@@ -85,8 +85,8 @@ Connetor - variouse
 Context diagram 
 * wip, refine
 ```
-    Source          Source         Source         Source      Storage
-  H2 Fuel Cell    Solar panel    Wind turbine    Generator    Battery   ...  
+  Source     Source          Source         Source          Source       Storage
+  Heat Pump  H2 Fuel Cell    Solar panel    Wind turbine    Generator    Battery   ...  
 ```
 
 ## References
@@ -96,7 +96,7 @@ Terms
 * Electronic control unit ECU, 
 
 Bus architecture
-* <todo: consider, move this section to a machinary /mch Network sub project, >
+* <todo: consider, move this section to a networked control system /ncs Network sub project, >
 * CAN
 * CAN low speed, 0.125 Mbit/s, 8 bytes, baud rate; fixed
 * CAN high speed, 1 Mbit/s, 8 bytes, baud rate; fixed
