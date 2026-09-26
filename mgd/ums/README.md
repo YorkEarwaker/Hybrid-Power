@@ -4,6 +4,7 @@ MIL STD 3071, US Army, micro grid interoperability FOB, other uses many for civi
 
 See also
 * DDS, application []() <todo: consider, get github hyperlink>
+* Networked control system ncs []()
 * Heat pump, []() <todo: consider, get github hyperlink>
 * NEXUS-1, []() composability for discrete system examples dds <todo: consider, get github hyperlink>
 
@@ -85,8 +86,9 @@ Connetor - variouse
 Context diagram 
 * wip, refine
 ```
-  Source     Source          Source         Source          Source       Storage
-  Heat Pump  H2 Fuel Cell    Solar panel    Wind turbine    Generator    Battery   ...  
+  Source     Source          Source         Source          Source       Storage      Storage
+  Heat Pump  H2 Fuel Cell    Solar panel    Wind turbine    Generator    Battery      Battery 
+                                                                         Soap stone   Magnesium
 ```
 
 ## References
@@ -95,30 +97,6 @@ Terms
 * Micro grid, tactical
 * Electronic control unit ECU, 
 
-Bus architecture
-* <todo: consider, move this section to a networked control system /ncs Network sub project, >
-* CAN
-* CAN low speed, 0.125 Mbit/s, 8 bytes, baud rate; fixed
-* CAN high speed, 1 Mbit/s, 8 bytes, baud rate; fixed
-* CAN FD, 8 Mbit/s (data phase), 64 bytes, baud rate; variable faster data field
-* CAN XL, 20 Mbit/s, 2048 bytes, baud rate;  variable higher rates
-* LIN, 1-20 kbit/s, increasingly replacing CAN low speed
-* Automotive Ethernet (100BASE-T1)
-* EtherCAT, 100 Mbit/s <100 µs cycle,
-* ISOBus, 250 kbit/s
-* PROFINET IRT, 100 Mbit/s
-* SERCOS III, 100 Mbit/s
-* Modbus, 9.6-115.2 kbit/s
-* RS-485, 10 Mbit/s, legacy
-* FlexRay, 10 Mbit/s, drive by wire, safety critical, adas, 
-* Ethernet + TNS, 100 Mbit/s - 1Gbit/s +, x-by-wire, 
-* ...
-
 News Papers - presentations
 * Modernizing Tactical Microgrids with TMS & DDS, [WS](https://www.brighttalk.com/webcast/12231/673028), Sep 23 2026, Nina Tucker Twin Oaks Computing and Gerardo Pardo RTI, BrightTalk
 
-News Papers - CAN
-* CAN Bus Explained - A Simple Intro  [WS](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial), 2026, CSS Electronics
-* CAN FD Explained - A Simple Intro [WS](https://www.csselectronics.com/pages/can-fd-flexible-data-rate-intro), 2026, CSS Electronics, 
-* LIN Bus Explained - A Simple Intro [WS](https://www.csselectronics.com/pages/lin-bus-protocol-intro-basics), 2026, CSS Electronics
-* ...
