@@ -92,7 +92,7 @@ Context diagram - distributed storage ds
   BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   gravety   ...
 ```
 
-Context diagram - TMS connection moduel for IEC/IEEE device
+Context diagram - OEM TMS connection moduel and  OEM IEC/IEEE connection module for OEM device
 * the tms connection module is provided by the OEM as bridge between external TMS network and OEM device internal ECU control system CAN/CAN FD/Modbus/...
 * the tmsi does not reach into and override inernal OEM device control system operation
 * IEC 62898 series (Parts 1–4) — planning, operation, protection/dynamic control, use cases
