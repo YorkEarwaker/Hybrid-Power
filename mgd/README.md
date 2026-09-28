@@ -31,13 +31,23 @@ DONE
 
 ## Libs
 
-Standards - power
+Standards - power general
 * <todo: consider, which of these are micro grid or could be used for same or interoperate with same, so what are interfaces and handoff, >
-* MIL STD 3071, us army, nato, micro grid
 * OpenFMB, 
 * SGIP
 * Smart Electic Power Alliance
 * TMSC tactical microgrid standard, <todo: consider, same as usm 3071?>
+
+Standards - microgrid
+* IEEE 2030.7, microgrid control system, ems microgrid energy management system
+* IEEE 1547-2018, interconnection & interoperability, poi point of interconnection with der unit
+* IEEE 2030.8, microgrid controller & utility communication
+* IEEE P2030.11, der management system derms
+* IEEE P2030.12, microgrid protection system design, 
+* MIL STD 3071, us army, nato, micro grid, <todo: consider, how closely does 3071 follow the IEEE standards, >
+
+Standards - component
+* ...
 
 Standards - teccnnical
 * Data Distribution Service DDS, [WS](https://www.omg.org/omg-dds-portal/), OMG
@@ -55,6 +65,30 @@ Certification - compute controller safety certs
 * US <todo: consider, us equivalent >
 * <todo: consider, equivalents for au ca jp kr nz ua others, cert once and use in many juresdictions >
 
+## Output
+
+Context diagram - distributed generation dg
+* attempt to replace base load fossil fuel power sources with storage 
+* depends on use case, mil, civ, building, fixed, mobile, tactical, strategic
+```
+                                                     base load     base load
+   source     source       source         source      source        source
+   pv solar   small wind   microturbine   fuel cell   chp           genset
+                                                     natural gas   ng/deisel
+
+```
+
+Context diagram - distributed storage ds
+```
+  storage          storage    storage         storage   storage
+  BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   ...
+```
+
+
+
 ## References
 
 * Micro grid
+* Distributed energy resource der, power source, power storage, 
+
+
