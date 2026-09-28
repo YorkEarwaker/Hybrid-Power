@@ -23,6 +23,7 @@ TODO
 * <todo: consider, first project, collate bill of materials, >
 * <todo: consider, first small energy emergency crisis management product, deploy in field testing and evaluation, funding EU energy facility, hydrogen bank, UK funding partnership?, AU, CA, KR, JP, others, funding & expertise. Deploy first test PoC unit in a month? Possible with a dedicated team will and funding. Energy engineering activity. >
 * <todo: consider, making thermal battery/sand battery a sub project to batter, /thr-bty, move related content there, >
+* <todo: consider, battery management system bms, genric control system parts, how much of logic will be same similar, networked control sysstem physical hardware can fd etal will likely differ per battery kind, >
 
 DONE
 * <done: consider, intent to commit>
@@ -54,6 +55,13 @@ Terms
 * Cryogenic battery
 * Gravity battery
 * Chemical battery
+
+Sub systems, on CAN FD bus, Modbus over RS 485, 
+* Battery management system bms, control, monitoring, state of charge soc, cell level voltage, current, temperature safety limits, prevent overcharging, thermal runnaway, 
+* Battery energy storage system bess, system control grid interface, uninterupted power, 
+* Grid forming inverter gfm, voltage source, ac voltage waveform and frequency interal reference, 
+* Grid following inverter gfl, current source, phase locked loop pll, 
+* Power control system pcs, cd to ac, executes power conversion commands, 
 
 COTS products
 * Manganise flow battery, [WS](https://www.certainenergy.com/), Certain Energy
