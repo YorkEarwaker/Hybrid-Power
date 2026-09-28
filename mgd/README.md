@@ -95,13 +95,20 @@ Context diagram - distributed storage ds
 Context diagram - TMS connection moduel for IEC/IEEE device
 * the tms connection module is provided by the OEM as bridge between external TMS network and OEM device internal ECU control system CAN/CAN FD/Modbus/...
 * the tmsi does not reach into and override inernal OEM device control system operation
+* IEC 62898 series (Parts 1–4) — planning, operation, protection/dynamic control, use cases
+* IEC 62786 series — DER connection with the grid
+* IEEE 1547 — DER interconnection
+* IEEE 2030.7 / 2030.8 — microgrid controller specification and testing
+* IEC 61850 — device-level data modelling 
+* MIL STD 3071 — tactical microgrid system
+* It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards
 ```
    NATO/NDMA MG        OEM device                   OEM device
    MIL STD 3071        3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
    TMS network         TMS coonection module        Device internal bus
    ethernet dds        ethernet dds to ECU NCS      Device networked control system   
 
-   CIv MG              OEM device                   OEM device
+   Civ MG              OEM device                   OEM device
    <todo: stuff>       IEC/IEEE to OEM bus bridge   as above                 
    <todo: stuff>       <todo: stuff>                as above
    <todo: stuff>       <todo: stuff>                as above
