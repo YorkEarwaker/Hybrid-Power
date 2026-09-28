@@ -14,6 +14,10 @@ Objectives
 * Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
 * Home Grid, Building Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ... hospitals, 
 
+Use cases - currently require protocol gateway for mixed environments, of TMS and IEEE/IEC, however any genset, battery, inverter can be made TMS compliant by addding a gateway, with modifying the OEM's internal firmware, i.e. drop in tmsi module concept
+* TMS, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
+* IEEE/IEC, fixed, grid interconnected, commercial/industrial, civilian, requires a TMS interface module, and likely assimilation into TMS network for the durration, 
+
 ## Status
 TODO
 * <todo: consider, first cut resources available, >
@@ -44,9 +48,13 @@ Standards - microgrid
 * IEEE 2030.8, microgrid controller & utility communication
 * IEEE P2030.11, der management system derms
 * IEEE P2030.12, microgrid protection system design, 
-* MIL STD 3071, us army, nato, micro grid, <todo: consider, how closely does 3071 follow the IEEE standards, >
+* MIL STD 3071, us army, nato, micro grid, <todo: consider, how closely does 3071 follow the IEEE standards, not very much, different use case see use cases above>
 
 Standards - component
+* IEC 61850, substation automation, intelligent electronic device ied (MMXU = three phase measuring, XCBR = circuit breaker), microgird device protection/monitoring
+* IEEE C37.2, device numbering, relay number/protection, (50 = overcurrent, 25 = sync check, 87 = differential)
+* ASME Y14.44, successor to IEEE 200, reference designators electrical/electronic parts, for schematics (U = IC, CB = circuit breaker, T = transformer, M = motor)
+* IEC 81346, general identification system for industrial products, used by IEC 61859 object naming
 * ...
 
 Standards - teccnnical
@@ -80,15 +88,29 @@ Context diagram - distributed generation dg
 
 Context diagram - distributed storage ds
 ```
-  storage          storage    storage         storage   storage
-  BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   ...
+  storage          storage    storage         storage   storage   storage
+  BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   gravety   ...
 ```
 
-
+Context diagram - de facto device unit naming convention in the wild
+* there is currently, of this writing 2026.09.28, and de jure standard
+* functional name acronyms fna some overlap in standardised naming accross; IEEE 1547 / 2030.7 and IEC 61850
+* fna including amoungst others; BMS, PCS, EMS/MEMS, DER, POI, PCC, ...
+* there is no single unified glossary accross the different standards, and the standard operate at different levels of abstraction
+```
+   < site >_< area/bus  >_< device kind >_< sequence >
+   
+    e.g.
+   SITE1_BMS_A_01
+   SITE1_PCS_A_01
+   SITE1_PV_INV_01
+   SITE1_GEN_01
+   SITE1_BREAKER_TIE_01
+```
 
 ## References
 
 * Micro grid
-* Distributed energy resource der, power source, power storage, 
+* Distributed energy resource der, distributed source, distributed storage, 
 
 
