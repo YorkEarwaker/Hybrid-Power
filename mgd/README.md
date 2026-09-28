@@ -79,10 +79,10 @@ Context diagram - distributed generation dg
 * attempt to replace base load fossil fuel power sources with storage 
 * depends on use case, mil, civ, building, fixed, mobile, tactical, strategic
 ```
-                                                     base load     base load
+                                                      base load     base load
    source     source       source         source      source        source
    pv solar   small wind   microturbine   fuel cell   chp           genset
-                                                     natural gas   ng/deisel
+                                                      natural gas   ng/deisel
 
 ```
 
@@ -92,7 +92,17 @@ Context diagram - distributed storage ds
   BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   gravety   ...
 ```
 
-Context diagram - de facto device unit naming convention in the wild
+Context diagram - TMS connection moduel for IEC/IEEE device
+* the tms connection module is provided by the OEM as bridge between external TMS network and OEM device internal ECU control system CAN/CAN FD/Modbus/...
+* the tmsi does not reach into and override inernal OEM device control system operation
+```
+   US Army/NATO/NDMA   OEM device                OEM device
+   MIL STD 3071        3071 to OEM bus bridge    CAN/CAN FD/Modbus/...
+   TMS network         TMS coonection module     Device internal bus
+   ethernet dds        ethernet dds to ECU NCS   Device networked control system   
+```
+
+Context diagram - de facto device unit naming convention in the wild civ
 * there is currently, of this writing 2026.09.28, and de jure standard
 * functional name acronyms fna some overlap in standardised naming accross; IEEE 1547 / 2030.7 and IEC 61850
 * fna including amoungst others; BMS, PCS, EMS/MEMS, DER, POI, PCC, ...
