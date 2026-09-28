@@ -96,10 +96,16 @@ Context diagram - TMS connection moduel for IEC/IEEE device
 * the tms connection module is provided by the OEM as bridge between external TMS network and OEM device internal ECU control system CAN/CAN FD/Modbus/...
 * the tmsi does not reach into and override inernal OEM device control system operation
 ```
-   US Army/NATO/NDMA   OEM device                OEM device
-   MIL STD 3071        3071 to OEM bus bridge    CAN/CAN FD/Modbus/...
-   TMS network         TMS coonection module     Device internal bus
-   ethernet dds        ethernet dds to ECU NCS   Device networked control system   
+   NATO/NDMA MG        OEM device                   OEM device
+   MIL STD 3071        3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
+   TMS network         TMS coonection module        Device internal bus
+   ethernet dds        ethernet dds to ECU NCS      Device networked control system   
+
+   CIv MG              OEM device                   OEM device
+   <todo: stuff>       IEC/IEEE to OEM bus bridge   as above                 
+   <todo: stuff>       <todo: stuff>                as above
+   <todo: stuff>       <todo: stuff>                as above
+ 
 ```
 
 Context diagram - de facto device unit naming convention in the wild civ
