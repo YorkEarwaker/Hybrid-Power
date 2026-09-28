@@ -92,7 +92,7 @@ Context diagram - distributed storage ds
   BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   gravety   ...
 ```
 
-Context diagram - OEM TMS connection moduel and  OEM IEC/IEEE connection module for OEM device
+Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module for OEM device
 * the tms connection module is provided by the OEM as bridge between external TMS network and OEM device internal ECU control system CAN/CAN FD/Modbus/...
 * the tmsi does not reach into and override inernal OEM device control system operation
 * IEC 62898 series (Parts 1–4) — planning, operation, protection/dynamic control, use cases
@@ -103,14 +103,14 @@ Context diagram - OEM TMS connection moduel and  OEM IEC/IEEE connection module 
 * MIL STD 3071 — tactical microgrid system
 * It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards
 ```
-   NATO/NDMA MG        OEM device                   OEM device
+   NATO/NDMA TMS       OEM device                   OEM device
    MIL STD 3071        3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
    TMS network         TMS coonection module        Device internal bus
    ethernet dds        ethernet dds to ECU NCS      Device networked control system   
 
    Civ MG              OEM device                   OEM device
    <todo: stuff>       IEC/IEEE to OEM bus bridge   as above                 
-   <todo: stuff>       <todo: stuff>                as above
+   <todo: stuff>       MG connection module         as above
    <todo: stuff>       <todo: stuff>                as above
  
 ```
