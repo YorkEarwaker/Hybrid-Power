@@ -88,11 +88,13 @@ Context diagram - distributed generation dg
 * attempt to replace base load fossil fuel power sources with storage and h2 to replace natural gas and deisel and other fossil fuels
 * depends on use case, civ, mil, building, vehicle, fixed, mobile, strategic, tactical
 ```
-                                                      base load        base load
+                           base load      base load   base load        base load
    source     source       source         source      source           source
    pv solar   small wind   microturbine   fuel cell   chp              genset
-                                          h2          h2/natural gas   h2/ng/deisel
+                           h2             h2          h2/natural gas   h2/ng/deisel
 
+<todo: consider, remove natural gas ng & deisel as these are very harmful, transitional only untill all base load source is 100% h2, >
+<todo: conside, 100% h2 ice, internal combution engine, >
 ```
 
 Context diagram - distributed storage ds
