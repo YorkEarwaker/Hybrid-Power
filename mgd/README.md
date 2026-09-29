@@ -76,13 +76,13 @@ Certification - compute controller safety certs
 ## Output
 
 Context diagram - distributed generation dg
-* attempt to replace base load fossil fuel power sources with storage 
+* attempt to replace base load fossil fuel power sources with storage and h2 to replace natural gas and deisel and other fossil fuels
 * depends on use case, mil, civ, building, fixed, mobile, tactical, strategic
 ```
-                                                      base load     base load
-   source     source       source         source      source        source
-   pv solar   small wind   microturbine   fuel cell   chp           genset
-                                                      natural gas   ng/deisel
+                                                      base load        base load
+   source     source       source         source      source           source
+   pv solar   small wind   microturbine   fuel cell   chp              genset
+                                          h2          h2/natural gas   h2/ng/deisel
 
 ```
 
@@ -90,6 +90,7 @@ Context diagram - distributed storage ds
 ```
   storage          storage    storage         storage   storage   storage
   BESS (BMS+PMS)   Flywheel   Supercapacitor  thermal   gravety   ...
+
 ```
 
 Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module for OEM device
