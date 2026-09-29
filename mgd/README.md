@@ -141,4 +141,10 @@ Context diagram - de facto device unit naming convention in the wild civ
 * Micro grid
 * Distributed energy resource der, distributed source, distributed storage, 
 
+H2 power
+* <todo: consider, first pass at h2 power generation technology, >
+* Jenbacher engines, [WS](https://www.jenbacher.com/en/energy-solutions/energy-sources/hydrogen/) chp 100% h2 operation
+* gas turbines, using 100% h2 as fuel source
 
+H2 generation
+* electrolyzers, 
