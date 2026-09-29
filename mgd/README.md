@@ -102,16 +102,17 @@ Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module f
 * IEEE 2030.7 / 2030.8 — microgrid controller specification and testing
 * IEC 61850 — device-level data modelling 
 * MIL STD 3071 — tactical microgrid system
-* It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards
+* It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards,
+* Likely two seperte code bases, both deployed to the same controller hardware, via user panel or cli initiate one or other,
 ```
    UNSDG 1,9,11,13,15   
    NATO A.V,A.III       
-   MIL/NDMA TMS          OEM device                   OEM device
+   MIL/NDMA TMS          OEM device controller        OEM device
    MIL STD 3071          3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
    TMS network           TMS coonection module        Device internal bus
    ethernet dds          ethernet dds to ECU NCS      Device networked control system   
 
-   CIV MG                OEM device                   OEM device
+   CIV MG                OEM device controller        OEM device
    <todo: stuff>         IEC/IEEE to OEM bus bridge   as above                 
    <todo: stuff>         MG connection module         as above
    <todo: stuff>         <todo: stuff>                as above
