@@ -144,6 +144,7 @@ Context diagram - de facto device unit naming convention in the wild civ
 H2 power
 * <todo: consider, first pass at h2 power generation technology, >
 * Jenbacher engines, [WS](https://www.jenbacher.com/en/energy-solutions/energy-sources/hydrogen/) chp 100% h2 operation
+* H2Genset, [WS](https://www.h2-genset.com/en/) 100% h2
 * gas turbines, using 100% h2 as fuel source
 
 H2 generation
