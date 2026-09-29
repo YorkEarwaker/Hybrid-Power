@@ -18,6 +18,15 @@ Use cases - currently require protocol gateway for mixed environments, of TMS an
 * TMS, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
 * IEEE/IEC, fixed, grid interconnected, commercial/industrial, civilian, requires a TMS interface module, and likely assimilation into TMS network for the durration, 
 
+Risk mitigation - pure hydrogen combustion best case, 
+* Best case. Hydrogen combustion produces; nitrogen oxides (NOx) only produced with oxidizer, zero particulate matter, zero carbon based pollutants, water vapour h2o primary byproduct of pure hydrogen combustion
+* Worst case. Diesel combustion produces; particulate matter pm2.5 very harmful, nitrogen oxides (NOx) significant amounts at high temperature reacting in atmosphere to form ground level ozon and seconcary PM2.5, carciogens nitroarenes and polycyclic aromatic hydrocarbons pah's, black carbon major component of pm2.5 repitory mortality and climate warming
+* NOx can be catalyzed and removed; SCR, EGR, H2-SCR
+* h2 selective catalytic reduction H2-SCR, uses hydrogen as reducing agent
+* selective catalytic reduction SCR, uses amonia as reducing agent
+* exhaust gas recirculation EGR, 
+* <todo: consider, what other solutions are there, >
+
 ## Status
 TODO
 * <todo: consider, first cut resources available, >
