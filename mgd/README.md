@@ -77,7 +77,7 @@ Certification - compute controller safety certs
 
 Context diagram - distributed generation dg
 * attempt to replace base load fossil fuel power sources with storage and h2 to replace natural gas and deisel and other fossil fuels
-* depends on use case, mil, civ, building, fixed, mobile, tactical, strategic
+* depends on use case, civ, mil, building, vehicle, fixed, mobile, strategic, tactical
 ```
                                                       base load        base load
    source     source       source         source      source           source
