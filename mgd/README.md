@@ -122,8 +122,9 @@ Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module f
 * IEC 61850 — device-level data modelling 
 * MIL STD 3071 — tactical microgrid system
 * It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards,
+* <todo: consider, these last two statements need revision, conflating things, use least impact on OEM device for tms capabiltiy addition, use case one - OEM retrofits current device with tms capabilty, use case two - OEM new design for future devices tbc best solution in that instance, device retrofit vs new device design build >
 * Likely two seperte externally facing code bases, both deployed to the same controller hardware, via user panel or cli initiate one or other,
-* LIkely one single internally facing code base, deployed to the same controller hardward, accessed by which ever microgrid facing module was initiated
+* LIkely one single internally facing code base, deployed to its own controller hardward MCU sepration of concern modulairty, accessed by which ever microgrid facing module was initiated
 ```
    UNSDG 1,9,11,13,15   
    NATO A.V,A.III       
