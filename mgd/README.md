@@ -18,14 +18,15 @@ Use cases - currently require protocol gateway for mixed environments, of TMS an
 * TMS, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
 * IEEE/IEC, fixed, grid interconnected, commercial/industrial, civilian, requires a TMS interface module, and likely assimilation into TMS network for the durration, 
 
-Risk mitigation - pure hydrogen combustion best case, 
+Risk mitigation - human health, pollution, ghg emmisions, pure hydrogen combustion best case, 
 * Best case. Hydrogen combustion produces; nitrogen oxides (NOx) only produced with oxidizer, zero particulate matter, zero carbon based pollutants, water vapour h2o primary byproduct of pure hydrogen combustion
 * Worst case. Diesel combustion produces; particulate matter pm2.5 very harmful, nitrogen oxides (NOx) significant amounts at high temperature reacting in atmosphere to form ground level ozon and seconcary PM2.5, carciogens nitroarenes and polycyclic aromatic hydrocarbons pah's, black carbon major component of pm2.5 repitory mortality and climate warming
-* NOx can be catalyzed and removed; SCR, EGR, H2-SCR
+
+Risk mitigation - NOx, NOx can be catalyzed and removed; SCR, EGR, H2-SCR
 * h2 selective catalytic reduction H2-SCR, uses hydrogen as reducing agent
 * selective catalytic reduction SCR, uses amonia as reducing agent
 * exhaust gas recirculation EGR, 
-* <todo: consider, what other solutions are there, >
+* <todo: consider, what other solutions are there for NOx to water h2o, >
 
 ## Status
 TODO
@@ -50,6 +51,11 @@ Standards - power general
 * SGIP
 * Smart Electic Power Alliance
 * TMSC tactical microgrid standard, <todo: consider, same as usm 3071?>
+
+Standards - microgrid management
+* ISO ...
+* ISO ...
+* ...
 
 Standards - microgrid
 * IEEE 2030.7, microgrid control system, ems microgrid energy management system
@@ -87,6 +93,8 @@ Certification - compute controller safety certs
 Context diagram - distributed generation dg
 * attempt to replace base load fossil fuel power sources with storage and h2 to replace natural gas and deisel and other fossil fuels
 * depends on use case, civ, mil, building, vehicle, fixed, mobile, strategic, tactical
+* necessary for human health and planetary safety for capex investment for as rapid as possible horizon for 100% H2 base load source and retire fossil fuel base load source
+* the diagram below show intermediate state in change to 100% H2 for all base load
 ```
                            base load      base load   base load        base load
    source     source       source         source      source           source
