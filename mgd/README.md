@@ -13,9 +13,10 @@ Objectives
 * National resillence and civil preparednes, NATO Article III
 * Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
 * Home Grid, Building Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ... hospitals, 
+* TMG civilian equivalent open source, iso standard required, how to maintain compatiblity?
 
 Use cases - currently require protocol gateway for mixed environments, of TMS and IEEE/IEC, however any genset, battery, inverter can be made TMS compliant by addding a gateway, with modifying the OEM's internal firmware, i.e. drop in tmsi module concept
-* TMS, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
+* TMG, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
 * IEEE/IEC, fixed, grid interconnected, commercial/industrial, civilian, requires a TMS interface module, and likely assimilation into TMS network for the durration, 
 
 Risk mitigation - human health, pollution, ghg emmisions, pure hydrogen combustion best case, 
@@ -48,10 +49,10 @@ DONE
 
 Standards - power general
 * <todo: consider, which of these are micro grid or could be used for same or interoperate with same, so what are interfaces and handoff, >
-* OpenFMB, us centric power wrapper round IEC 61850 and IEC 61968/61970 (Common Information Model)
+* OpenFMB, [WS](https://openfmb.gitlab.io/), us centric power wrapper round IEC 61850 and IEC 61968/61970 (Common Information Model)
 * SGIP, 
 * Smart Electic Power Alliance, 
-* TMSC tactical microgrid standard, <todo: consider, same as usm 3071?>
+* TMSC tactical microgrid standard consortium, <todo: consider, same as usm 3071?>
 
 Standards - microgrid management
 * ISO ...
@@ -173,6 +174,6 @@ H2 power
 H2 generation
 * electrolyzers, 
 
-
 News papers - microgrids
 * Understanding Microgrids and Their Future Trends, [WS](https://ieeexplore.ieee.org/document/8754952), 13-15 February  2019, IEEE, International Conference on Idustrial Technology ICIT, [DOI](https://doi.org/10.1109/ICIT.2019.8754952)
+* Drop-in Modular Solution for MIL-STD-3071 Tactical Microgrid Standard (TMS) Compliance, [WS](https://aegispower.com/mil-std-3071-tactical-microgrid-interface-module/), Aegis, product, what is an itar free alternative, 
