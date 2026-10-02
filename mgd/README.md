@@ -31,7 +31,7 @@ Risk mitigation - NOx, NOx can be catalyzed and removed; SCR, EGR, H2-SCR
 ## Status
 TODO
 * <todo: consider, first cut resources available, >
-* <todo: consider, similar micro grid solutions to us-army mil std 3071, system of systems, plug and play, what is the au ca de fr jp kr nz uk etal  equivalent? is this the defacto of dejure NATO standard, >
+* <todo: consider, similar micro grid solutions to us-army mil std 3071, system of systems, plug and play, what is the au ca de fr jp kr nz uk etal  equivalent? is this the de facto or de jure NATO standard, what would a civilian equivalent look like, iso, >
 * <todo: consider, determine when test tool set for mil std 3071 to be open sourced? eta?,  >
 * <todo: consider, how best to interoperate with renewably energy sources, solar, wind, tidal, hydrogen fuel cell, >
 * <todo: consider, how to conform to NATO interop and wider global resillence and civil preparedness, >
@@ -39,6 +39,7 @@ TODO
 * <todo: consider, how to weave this into global heating resillience frameworks emerging from UN, BRICS, P4M, others, >
 * <todo: consider, other DDS based defence standards SOSA MOSA etal >
 * <todo: consider, controller hardware MCU SBC are concern regarding emerging multipolar world, seperation of concern regarding civiliam and military use cases, even if the standards based approach makes systems of systems the dominant frame of reference, actual conrete use cases mean different hardware and software options my be required, >
+* <todo: consider, for itar compatibility define the european standards set, and au ca nz uk no is similar, >
 
 DONE
 * <done: consider, intent to commit>
@@ -47,9 +48,9 @@ DONE
 
 Standards - power general
 * <todo: consider, which of these are micro grid or could be used for same or interoperate with same, so what are interfaces and handoff, >
-* OpenFMB, 
-* SGIP
-* Smart Electic Power Alliance
+* OpenFMB, us centric power wrapper round IEC 61850 and IEC 61968/61970 (Common Information Model)
+* SGIP, 
+* Smart Electic Power Alliance, 
 * TMSC tactical microgrid standard, <todo: consider, same as usm 3071?>
 
 Standards - microgrid management
@@ -67,6 +68,7 @@ Standards - microgrid
 
 Standards - component
 * IEC 61850, substation automation, intelligent electronic device ied (MMXU = three phase measuring, XCBR = circuit breaker), microgird device protection/monitoring
+* IEC 61968/61970 (Common Information Model), 
 * IEEE C37.2, device numbering, relay number/protection, (50 = overcurrent, 25 = sync check, 87 = differential)
 * ASME Y14.44, successor to IEEE 200, reference designators electrical/electronic parts, for schematics (U = IC, CB = circuit breaker, T = transformer, M = motor)
 * IEC 81346, general identification system for industrial products, used by IEC 61859 object naming
@@ -170,3 +172,7 @@ H2 power
 
 H2 generation
 * electrolyzers, 
+
+
+News papers - microgrids
+* Understanding Microgrids and Their Future Trends, [WS](https://ieeexplore.ieee.org/document/8754952), 13-15 February  2019, IEEE, International Conference on Idustrial Technology ICIT, [DOI](https://doi.org/10.1109/ICIT.2019.8754952)
