@@ -132,15 +132,15 @@ Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module f
 ```
    UNSDG 1,9,11,13,15   
    NATO A.V,A.III       
-   MIL/NDMA TMG          OEM device controller        OEM device
-   MIL STD 3071          3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
-   TMG network           TMG coonection module        Device internal bus
-   ethernet dds          ethernet dds to ECU NCS      Device networked control system   
+   MIL NATO/CIV NDMA TMG   OEM device controller        OEM device
+   MIL STD 3071            3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
+   TMG network             TMG coonection module        Device internal bus
+   ethernet dds            ethernet dds to ECU NCS      Device networked control system   
 
-   CIV SMG               OEM device controller        OEM device
-   <todo: stuff>         IEC/IEEE to OEM bus bridge   as above                 
-   <todo: stuff>         SMG connection module        as above
-   <todo: stuff>         <todo: stuff>                as above
+   CIV SMG                 OEM device controller        OEM device
+   <todo: stuff>           IEC/IEEE to OEM bus bridge   as above                 
+   <todo: stuff>           SMG connection module        as above
+   <todo: stuff>           <todo: stuff>                as above
  
 ```
 
