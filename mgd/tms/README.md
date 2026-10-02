@@ -1,6 +1,6 @@
-# US military standard ums
+# Tactical microgrid standard tms
 
-MIL STD 3071, US Army, micro grid interoperability FOB, other uses many for civilian use cases
+US military standard, MIL STD 3071, US Army, micro grid interoperability FOB, other uses many for civilian use cases
 
 See also
 * DDS, application []() <todo: consider, get github hyperlink>
@@ -97,6 +97,9 @@ Context diagram
 Terms
 * Micro grid, tactical
 * Electronic control unit ECU, 
+
+Docs
+* Tactical Micro-Grid Standard Add-On for Power Sources, [WS](https://armysbir.army.mil/topics/tactical-micro-grid-standard-add-on-for-power-sources/), Small Business Innovation Research and Small Business Technology Transfer (SBIR|STTR)
 
 News Papers - presentations
 * Modernizing Tactical Microgrids with TMS & DDS, [WS](https://www.brighttalk.com/webcast/12231/673028), Sep 23 2026, Nina Tucker Twin Oaks Computing and Gerardo Pardo RTI, BrightTalk
