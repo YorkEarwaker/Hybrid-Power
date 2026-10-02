@@ -164,8 +164,8 @@ Context diagram - de facto device unit naming convention in the wild civ
 
 * Microgrid MG
 * Distributed energy resource der, distributed source, distributed storage, 
-* Tactical Microgrid TMG, mobile
-* Stretegic Microgrid SMG, fixed
+* Tactical Microgrid TMG, mobile, might be civilian NDMA or military NATO
+* Stretegic Microgrid SMG, fixed, what does a smg dds equivalent to tmg look like
 
 H2 power
 * <todo: consider, first pass at h2 power generation technology, >
