@@ -1,4 +1,4 @@
-# Tactical microgrid standard tms
+# Tactical microgrid tmg
 
 US military standard, MIL STD 3071, US Army, micro grid interoperability FOB, other uses many for civilian use cases
 
