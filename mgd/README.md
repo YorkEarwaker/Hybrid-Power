@@ -125,20 +125,21 @@ Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module f
 * IEC 61850 — device-level data modelling 
 * MIL STD 3071 — tactical microgrid system
 * It is incumbent on the OEM device to have bridge interface to interoperate with both stacks of standards,
+* Device unit interoperability between CIV SMG and MIL/NDMA TMG and likely requirement for CIV/NDMA TMG internationl standard while still retaining interop with MIL TMG, so a CIV/NDMA TMG standard/solution required but not to reinvent the wheel, emergency services which would be NDMA members are civilian organisations, this muddle need to be sorted, as does related itar free concern, 
 * <todo: consider, these last two statements need revision, conflating things, use least impact on OEM device for tms capabiltiy addition, use case one - OEM retrofits current device with tms capabilty, use case two - OEM new design for future devices tbc best solution in that instance, device retrofit vs new device design build >
 * Likely two seperte externally facing code bases, both deployed to the same controller hardware, via user panel or cli initiate one or other,
 * LIkely one single internally facing code base, deployed to its own controller hardward MCU sepration of concern modulairty, accessed by which ever microgrid facing module was initiated
 ```
    UNSDG 1,9,11,13,15   
    NATO A.V,A.III       
-   MIL/NDMA TMS          OEM device controller        OEM device
+   MIL/NDMA TMG          OEM device controller        OEM device
    MIL STD 3071          3071 to OEM bus bridge       CAN/CAN FD/Modbus/...
-   TMS network           TMS coonection module        Device internal bus
+   TMG network           TMG coonection module        Device internal bus
    ethernet dds          ethernet dds to ECU NCS      Device networked control system   
 
-   CIV MG                OEM device controller        OEM device
+   CIV SMG               OEM device controller        OEM device
    <todo: stuff>         IEC/IEEE to OEM bus bridge   as above                 
-   <todo: stuff>         MG connection module         as above
+   <todo: stuff>         SMG connection module        as above
    <todo: stuff>         <todo: stuff>                as above
  
 ```
@@ -161,8 +162,10 @@ Context diagram - de facto device unit naming convention in the wild civ
 
 ## References
 
-* Micro grid
+* Microgrid MG
 * Distributed energy resource der, distributed source, distributed storage, 
+* Tactical Microgrid TMG, mobile
+* Stretegic Microgrid SMG, fixed
 
 H2 power
 * <todo: consider, first pass at h2 power generation technology, >
