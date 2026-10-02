@@ -14,7 +14,7 @@ Objectives
 * Interoperability with NATO equipment for micro grids, this will be getting rough global heating wise and all the interoperability possible will be required
 * Home Grid, Building Grid, Community Grid, Local Grid, add new Storage, Source, Controller, Load, ... hospitals, 
 * TMG civilian equivalent open source, iso standard required, how to maintain compatiblity?
-* A microgrid ontology, glossary, data dictionary, data model, there does not appear to be one circa 2026.10.02
+* A microgrid ontology, glossary, data dictionary, canonical data model cdm, there does not appear to be one circa 2026.10.02
 
 Use cases - currently require protocol gateway for mixed environments, of TMS and IEEE/IEC, however any genset, battery, inverter can be made TMS compliant by addding a gateway, with modifying the OEM's internal firmware, i.e. drop in tmsi module concept
 * TMG, tactical microgrid system, mobile, islanded, tactical, military, potentially for emergency services in extreme civilian grid failure scenario likely nato articel iii related, which might be extreme weather global heating scenario
@@ -139,8 +139,8 @@ Context diagram - OEM TMS connection module and OEM IEC/IEEE connection module f
    ethernet dds            ethernet dds to ECU NCS      Device networked control system   
 
    CIV SMG                 OEM device controller        OEM device
-   <todo: stuff>           IEC/IEEE to OEM bus bridge   as above                 
-   <todo: stuff>           SMG connection module        as above
+   IEC/IEEE stack          IEC/IEEE to OEM bus bridge   as above                 
+   SMG network             SMG connection module        as above
    <todo: stuff>           <todo: stuff>                as above
  
 ```
