@@ -1,6 +1,6 @@
 # Micro grid mgd
 
-Small power grid, mobile, system of system
+Small power grid, fixed or mobile, system of systems. As a mobile sos might also be termed a tactical microgrid. As a fixed sos might also be termed a strategic microgrid. Best case there should be interoperability between device system of the tactial and startegic.
 
 ## Notes
 
