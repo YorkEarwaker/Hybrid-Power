@@ -181,3 +181,6 @@ H2 generation
 News papers - microgrids
 * Understanding Microgrids and Their Future Trends, [WS](https://ieeexplore.ieee.org/document/8754952), 13-15 February  2019, IEEE, International Conference on Idustrial Technology ICIT, [DOI](https://doi.org/10.1109/ICIT.2019.8754952)
 * Drop-in Modular Solution for MIL-STD-3071 Tactical Microgrid Standard (TMS) Compliance, [WS](https://aegispower.com/mil-std-3071-tactical-microgrid-interface-module/), Aegis, product, what is an itar free alternative, 
+
+Reports
+* The Grid We Need Now, Independent Review of AI Deployment in the Electricity Networks, [PDF](https://assets.publishing.service.gov.uk/media/6a9fea93c5796a7a179c641f/the-grid-we-need-now-independent-review.pdf), September 2026, Lucy Yu, Granthan Institute, Imperial, UK Gov, 
