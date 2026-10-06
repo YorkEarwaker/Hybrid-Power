@@ -53,7 +53,7 @@ tbd
 ## Docs
 
 Reports
-* The Grid We Need Now, Independent Review of AI Deployment in the Electricity Networks, [PDF](https://assets.publishing.service.gov.uk/media/6a9fea93c5796a7a179c641f/the-grid-we-need-now-independent-review.pdf), September 2026, Lucy Yu, Granthan Institute, Imperial, UK Gov, note not microgrid specific but national grid, how would a microgird feed into of consume from the national grid in a distributed heterogenous federated model, using ai for smg or tmg local grid lg national grid ng regional grid rg integration
+* The Grid We Need Now, Independent Review of AI Deployment in the Electricity Networks, [PDF](https://assets.publishing.service.gov.uk/media/6a9fea93c5796a7a179c641f/the-grid-we-need-now-independent-review.pdf), September 2026, Lucy Yu, Granthan Institute, Imperial, UK Gov, note not microgrid specific but national grid, how would a microgird feed source into of consume sink/load from the national grid in a distributed heterogenous federated model, using ai for smg or tmg integrate with local grid lg national grid ng regional grid rg, different concern from device system interoperability 
 * ..
 
 Standards - power general
