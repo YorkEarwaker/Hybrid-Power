@@ -48,6 +48,14 @@ DONE
 
 ## Libs
 
+tbd
+
+## Docs
+
+Reports
+* The Grid We Need Now, Independent Review of AI Deployment in the Electricity Networks, [PDF](https://assets.publishing.service.gov.uk/media/6a9fea93c5796a7a179c641f/the-grid-we-need-now-independent-review.pdf), September 2026, Lucy Yu, Granthan Institute, Imperial, UK Gov, note not microgrid specific but national grid, how would a microgird feed into of consume from the national grid in a distributed heterogenous federated model, using ai for smg or tmg local grid lg national grid ng regional grid rg integration
+* ..
+
 Standards - power general
 * <todo: consider, which of these are micro grid or could be used for same or interoperate with same, so what are interfaces and handoff, >
 * OpenFMB, [WS](https://openfmb.gitlab.io/), us centric power wrapper round IEC 61850 and IEC 61968/61970 (Common Information Model)
@@ -181,6 +189,3 @@ H2 generation
 News papers - microgrids
 * Understanding Microgrids and Their Future Trends, [WS](https://ieeexplore.ieee.org/document/8754952), 13-15 February  2019, IEEE, International Conference on Idustrial Technology ICIT, [DOI](https://doi.org/10.1109/ICIT.2019.8754952)
 * Drop-in Modular Solution for MIL-STD-3071 Tactical Microgrid Standard (TMS) Compliance, [WS](https://aegispower.com/mil-std-3071-tactical-microgrid-interface-module/), Aegis, product, what is an itar free alternative, 
-
-Reports
-* The Grid We Need Now, Independent Review of AI Deployment in the Electricity Networks, [PDF](https://assets.publishing.service.gov.uk/media/6a9fea93c5796a7a179c641f/the-grid-we-need-now-independent-review.pdf), September 2026, Lucy Yu, Granthan Institute, Imperial, UK Gov, 
