@@ -8,6 +8,9 @@ Objectives
 * Portable power bank for AGW project, what capacity Wattage T shirt S M L which use cases
 * COTS components, breakout boards, MCU, ...
 * Design and build own PCB, passives, actives, ...
+* Integrate with a solar pv panel, 
+
+Out of scope
 * Build a battery not in scope, another differnt project, 
 
 ## Status
