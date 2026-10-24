@@ -1,6 +1,6 @@
 # Portable power bank ppb
 
-Mobile phone size to box size, stackable, backup power for personal devices to household. 
+From chocolate bar size to mobile phone size to shoe box size to moving box size, stackable, backup power for personal devices to household. 
 
 ## Notes
 
@@ -37,10 +37,15 @@ DONE
 Battery - Lithium ion battery kinds, products from sepecific manufactureres elsewhere
 * <todo: consider, LiFePo4 product of choice, is there any better safety and longevity wise thatn LiFePO4 >
 * Lithium ion battery 
-* LiFePO4, [WP](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery), Lithium Li Iron Fe Phosphate P Oxygen O4, low cost, low toxicity, long life cycle, stable, safe, + 
+* LiFePO4, [WP](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery), Lithium Li Iron Fe Phosphate P O4 oxides, low cost, low toxicity, long life cycle, stable, safe, + 
 * NMC, [WP](), Lithium Li Nickle Ni Magnesium Mn Cobolt Co O2 oxides
 * NCA, [WP](https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminium_oxides), Lithium Li Nickle Ni Cobalt Co Aluminium Al O2 oxides
 * LiCoO2 Lithium Li Cobalt Co O2 oxide
+* ...
+
+Battery - other
+* Lead acid
+* AGM
 * ...
 
 Risks
