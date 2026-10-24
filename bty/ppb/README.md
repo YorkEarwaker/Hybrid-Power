@@ -1,6 +1,6 @@
 # Portable power bank ppb
 
-stub
+Mobile phone size to box size, stackable, backup power for personal devices to household. 
 
 ## Notes
 
@@ -34,10 +34,17 @@ DONE
 * Regarchable battery
 * Regarchable battery kinds, lithium ion, other tbc
 
-Battery - products
-* Lxx4?
+Battery - Lithium ion battery kinds, products from sepecific manufactureres elsewhere
+* <todo: consider, LiFePo4 product of choice, is there any better safety and longevity wise thatn LiFePO4 >
+* Lithium ion battery 
+* LiFePO4, [WP](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery), Lithium Li Iron Fe Phosphate P Oxygen O4, low cost, low toxicity, long life cycle, stable, safe, + 
+* NMC, [WP](), Lithium Li Nickle Ni Magnesium Mn Cobolt Co O2 oxides
+* NCA, [WP](https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminium_oxides), Lithium Li Nickle Ni Cobalt Co Aluminium Al O2 oxides
+* LiCoO2 Lithium Li Cobalt Co O2 oxide
 * ...
 
+Risks
+* overcharging, thermal runaway
 
 News Papers - how to
 * How to Build a DIY Power Bank, [WS](https://www.logotech.com/blog/post/how-to-build-a-diy-power-bank), logotech
