@@ -18,6 +18,9 @@ Objectives
 Out of scope
 * Build a battery not in scope, another differnt project, 
 
+Use Cases
+* ...
+
 ## Status
 TODO
 * <todo: conider, what qaulifies as a hello world start minimum viable product PoC>
@@ -27,7 +30,7 @@ TODO
 DONE
 * <done: consider, intent to commit >
 
-## BoM
+## BoM - bill of materials
 
 * Heatshrink tubing, exposed terminal cover
 * Kapton tape, exposed terminal cover
@@ -66,6 +69,11 @@ Battery - other
 
 Risks
 * overcharging, thermal runaway
+
+Metrics - energy density, per battery kind
+* mAh/g, milliampere-hour, over gram, mass based gavimetric capacity
+* mAh/ml, milliampere-hour, over millileter, volume based volumetric capacity
+* ...
 
 News Papers - how to
 * How to Build a DIY Power Bank, [WS](https://www.logotech.com/blog/post/how-to-build-a-diy-power-bank), logotech
