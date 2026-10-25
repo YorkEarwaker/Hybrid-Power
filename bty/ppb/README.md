@@ -34,7 +34,19 @@ DONE
 
 * Heatshrink tubing, exposed terminal cover
 * Kapton tape, exposed terminal cover
-* LiFePO4 batteries, 
+* Li ion, LiFePO4 batteries, 
+* Al ion, ??? batteries, MOF? quasi solid state, graphite? tbd future state, <todo: consider, monitor progress of technology for Al ions>
+
+## Output
+
+Context diagram - circuit electron flow, battery ion flow
+* charge, ions transfer electrons within the battery from anode to cathode through electrolyte to maintain charge balance
+* work, electrons from the battery cathode travel through the external circit taking a longer path to complete the circuit with the battery anode, 
+* energy, some of the energy may be lost to heat due to work
+```
+ electron flow through external wires in circuit, ion flow through internal electrolyte in battery
+ <todo: consider, first use of LaTeX circuit diagram? >
+```
 
 ## References
 
@@ -44,7 +56,7 @@ DONE
 * Regarchable battery
 * Regarchable battery kinds, lithium ion, other tbc
 
-Battery - Lithium ion battery kinds, products from sepecific manufactureres elsewhere
+Battery - Lithium ion battery kinds, Li ion flow via electrolyte, products from sepecific manufactureres elsewhere
 * <todo: consider, LiFePo4 product of choice, is there any better safety and longevity wise thatn LiFePO4 >
 * Lithium ion battery 
 * LiFePO4, [WP](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery), Lithium Li Iron Fe Phosphate P O4 oxides, low cost, low toxicity, long life cycle, stable, safe, + 
@@ -53,8 +65,8 @@ Battery - Lithium ion battery kinds, products from sepecific manufactureres else
 * LiCoO2 Lithium Li Cobalt Co O2 oxide
 * ...
 
-Battery - Aluminium ion battery kinds
-* Aluminium ion battery, [WP](https://en.wikipedia.org/wiki/Aluminium-ion_battery)
+Battery - Aluminium ion battery kinds, Al ion flow via electrolyte
+* Aluminium ion battery, [WP](https://en.wikipedia.org/wiki/Aluminium-ion_battery), low cost, low flamability, high capacity, more charge discharge cycles than Li ion batteries
 * Aluminium air battery, oxygen reaction in atmosphere, 
 * ...
 
