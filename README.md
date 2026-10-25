@@ -54,6 +54,11 @@ Centralised distribution - central electrical authority
 Systems theory
 * Complex adaptive system, 
 
+Energy density
+* Energy density
+* Galvimetric capacity
+* Volumetric capacity
+
 News Papers - power supply 
 * Rewiring California: Outages & Innovation, 06/25/2025, Earth Focus, Season 6 Episode 1, PBS, [WS](https://www.pbs.org/video/rewiring-california-outages-innovation-0lmu2k/), Across California, communities and companies are tackling power outages and wildfires by upgrading outdated infrastructure—from burying power lines in La Jolla to building solar microgrids on tribal lands. Learn how local efforts are shaping a safer, more resilient energy future.
 
@@ -71,3 +76,6 @@ Molecules produced by burning natural gas, indoor air quality IAQ
 * Carbon Dioxide, CO2, [](), burning, health
 * Water, H2O, [](),  burning, health, damp conditions encourage black mold,
 * ...
+
+Docs
+* Measures of Batteries and Fuel Cells, [WS](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Direct_Energy_(Mitofsky)/09:_Batteries_and_Fuel_Cells/9.04:_Measures_of_Batteries_and_Fuel_Cells), LibreTexts, Andrea Mitofsky, Trine University
