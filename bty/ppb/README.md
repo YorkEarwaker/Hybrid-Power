@@ -8,7 +8,12 @@ Objectives
 * Portable power bank for AGW project, what capacity Wattage T shirt S M L which use cases
 * COTS components, breakout boards, MCU, ...
 * Design and build own PCB, passives, actives, ...
-* Integrate with a solar pv panel, 
+* Integrate with a solar pv panel, high priority
+* Integrate with H2 fuel cell, high priority
+* Integrate with small wind turbine, high priority
+* Integrate with small H2 turbine, medium priority
+* Integrate with EVB as storage, medium priority, 
+* Integrate with DDS system of systems see microgrid, large mg as sink, in home mg as storge
 
 Out of scope
 * Build a battery not in scope, another differnt project, 
@@ -17,6 +22,7 @@ Out of scope
 TODO
 * <todo: conider, what qaulifies as a hello world start minimum viable product PoC>
 * <todo: consider, battery management system BMS >
+* <todo: consider, moving some of the general battery kinds references elsewhere, top level? >
 
 DONE
 * <done: consider, intent to commit >
@@ -25,6 +31,7 @@ DONE
 
 * Heatshrink tubing, exposed terminal cover
 * Kapton tape, exposed terminal cover
+* LiFePO4 batteries, 
 
 ## References
 
@@ -43,10 +50,19 @@ Battery - Lithium ion battery kinds, products from sepecific manufactureres else
 * LiCoO2 Lithium Li Cobalt Co O2 oxide
 * ...
 
-Battery - other
-* Lead acid
-* AGM
+Battery - Aluminium ion battery kinds
+* Aluminium ion battery, [WP](https://en.wikipedia.org/wiki/Aluminium-ion_battery)
+* Aluminium air battery, oxygen reaction in atmosphere, 
 * ...
+
+Battery - Lead acid battery kinds
+* Lead acid, flooded battery
+* AGM, absorbant glass mat, kind of valve-regulated lead acid battery, non flooded battery, spill proof, highly resistant to vibration and shock, 
+* VRLA, valve regulated lead acid battery, non flooded battery, start stop car vehicle battery, <todo: consider, vrla battery with H2 vehicles? >
+* ...
+
+Battery - other
+* Lynden jar
 
 Risks
 * overcharging, thermal runaway
