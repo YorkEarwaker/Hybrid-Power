@@ -43,6 +43,16 @@ DONE
 * Electrolysis for green hydrogen generation
 * ...
 
+### Electrolytes 
+
+## Calculations
+
+
+* Cell voltage in `volts`
+* Specific energy in `$\frac{J}{g}$` or `$\frac{W$\dot$h}{kg}`
+* ...
+
+
 ## References
 
 Terms
