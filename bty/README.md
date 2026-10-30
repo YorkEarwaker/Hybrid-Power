@@ -47,10 +47,13 @@ DONE
 
 ## Calculations
 
-
-* Cell voltage in `volts`
-* Specific energy in `$\frac{J}{g}$` or `$\frac{W$\dot$h}{kg}`
-* ...
+Battery cell energy and like metrics
+* Cell voltage in $\text{volts}$
+* Specific energy in $\frac{J}{g}$ or $\frac{W\cdot h}{kg}$
+* Energy density in $\frac{J}{m^{3}}$ or $\frac{W\cdot h}{L}$
+* Capacity in $\text{mA\cdot h}$ or $\text{C}$
+* Specific capacity in $\frac{mA\cdot h}{g}$ or $\frac{C}{kg}$
+* Charge density in $\frac{mA\cdot h}{L}$ or $\frac{C}{L}$ 
 
 
 ## References
