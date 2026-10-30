@@ -71,7 +71,7 @@ Theoretical example for magnesium Mg nickle Ni battery
 
 Theoretical example to calculate the weight per unit charge foe each half reaction, with unit conversions.
 * Atomic weight, aka relative atomic mass $A_r$
-* Formally notated $A_r\circ(\text{E})$ for element E by IUPAC
+* Formally notated $A^\circ_r(\text{E})$ for element E by IUPAC
 
 ## References
 
