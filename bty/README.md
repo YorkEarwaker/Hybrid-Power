@@ -62,12 +62,16 @@ Battery cell energy and like metrics
 Constants
 * Faraday constant the charge in a mol of electrons
 
-$$\frac{6.022\cdot 10^23 atoms}{1mol}\cdot \frac{1e^-}{atom}\cdot \frac{1.602\cdot 10^{-19}C}{e^-} = 9.649\cdot 10^4 \frac{C}{mol}$$
+$$\frac{6.022\cdot 10^{23} atoms}{1mol}\cdot \frac{1e^-}{atom}\cdot \frac{1.602\cdot 10^{-19}C}{e^-} = 9.649\cdot 10^4 \frac{C}{mol}$$
 
 Theoretical example for magnesium Mg nickle Ni battery
 * $V_{rp} = 2.68 V$ is the Mg half reaction redox potential 
-* $V_{rp} = 0.49 V$ Ni half reaction redox potential
-* $V_{cell} =2.68 + 0.49 = 3.17 V$ the cell voltage overall
+* $V_{rp} = 0.49 V$ is the Ni half reaction redox potential
+* $V_{cell} =2.68 + 0.49 = 3.17 V$ is the cell voltage overall
+
+Theoretical example to calculate the weight per unit charge foe each half reaction, with unit conversions.
+* Atomic weight, aka relative atomic mass $A_r$
+* Formally notated $A\deg_r(E)$ for element E by IUPAC
 
 ## References
 
