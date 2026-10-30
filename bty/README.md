@@ -111,6 +111,10 @@ Orgs
 * Commission on Isotopic Abundances and Atomic Weights
 * IUPAC
 
+Books
+* 9.4: Measures of Batteries and Fuel Cells, [WS](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Direct_Energy_(Mitofsky)/09:_Batteries_and_Fuel_Cells/9.04:_Measures_of_Batteries_and_Fuel_Cells), Andrea M. Mitofsky, Trine University, LibreTexts, Engineering, 
+* ...
+
 News Papers
 * ‘A very Finnish thing’: Big sand battery starts storing wind and solar energy in crushed soapstone [WS](https://www.euronews.com/green/2025/06/15/sand-batteries-could-be-key-breakthrough-in-storing-solar-and-wind-energy-year-round), Updated 15/06/2025, Euro News, 
 * Imperial energy storage spinout Certain Energy raises £10m from investors, [WS](https://www.imperial.ac.uk/news/articles/admin-services/enterprise/2026/imperial-energy-storage-spinout-certain-energy-raises-10m-from-investors/), 26 August 2026, Ian Mundell, Grantham Institute, regarding; Manganise flow battery technology, Certain Energy
