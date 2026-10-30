@@ -61,7 +61,13 @@ Battery cell energy and like metrics
 
 Constants
 * Faraday constant the charge in a mol of electrons
+
 $$\frac{6.022\cdot 10^23 atoms}{1mol}\cdot \frac{1e^-}{atom}\cdot \frac{1.602\cdot 10^{-19}C}{e^-} = 9.649\cdot 10^4 \frac{C}{mol}$$
+
+Theoretical example for magnesium Mg nickle Ni battery
+* $V_{rp} = 2.68 V$ is the Mg half reaction redox potential 
+* $V_{rp} = 0.49 V$ Ni half reaction redox potential
+* $V_{cell} =2.68 + 0.49 = 3.17 V$ the cell voltage overall
 
 ## References
 
