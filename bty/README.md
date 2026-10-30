@@ -46,6 +46,10 @@ DONE
 ### Electrolytes 
 
 ## Calculations
+* Theoretical values calculated from chemical reactions involved
+* Practical values measured experimentally
+* Theoretical values are always a little larger than Practical values
+* Only valence electrons are considered in calculated or measured values
 
 Battery cell energy and like metrics
 * Cell voltage in $\text{volts}$
@@ -55,6 +59,9 @@ Battery cell energy and like metrics
 * Specific capacity in $\frac{mA\cdot h}{g}$ or $\frac{C}{kg}$
 * Charge density in $\frac{mA\cdot h}{L}$ or $\frac{C}{L}$ 
 
+Constants
+* Faraday constant the charge in a mol of electrons
+$$\frac{6.022\cdot 10^23 atoms}{1mol}\cdot \frac{1e^-}{atom}\cdot \frac{1.602\cdot 10^{-19}C}{e^-} = 9.649\cdot 10^4 \frac{C}{mol}$$
 
 ## References
 
