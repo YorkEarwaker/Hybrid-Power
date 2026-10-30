@@ -64,7 +64,7 @@ Constants
 
 $$\frac{6.022\cdot 10^{23} atoms}{1mol}\cdot \frac{1e^-}{atom}\cdot \frac{1.602\cdot 10^{-19}C}{e^-} = 9.649\cdot 10^4 \frac{C}{mol}$$
 
-Theoretical example for magnesium Mg nickle Ni battery
+Theoretical example for magnesium Mg nickle Ni oxide O battery
 * $V_{rp} = 2.68 V$ is the Mg half reaction redox potential 
 * $V_{rp} = 0.49 V$ is the Ni half reaction redox potential
 * $V_{cell} =2.68 + 0.49 = 3.17 V$ is the cell voltage overall
@@ -72,6 +72,10 @@ Theoretical example for magnesium Mg nickle Ni battery
 Theoretical example to calculate the weight per unit charge foe each half reaction, with unit conversions.
 * Atomic weight, aka relative atomic mass $A_r$
 * Formally notated $A^\circ_r(\text{E})$ for element E by IUPAC
+* $A_r^\circ(\text(Mg)) = 24.305 \pm 0.002 \approx 24.305 \frac{g}{mol}$ standard atomic weight of magnesium
+* $A_r^\circ(\text(Ni)) = 58.693 \pm 0.001 \approx 58.693 \frac{g}{mol}$ standard atomic weight of nickle
+* $A_r^\circ(\text(O))  = 15.999 \pm 0.001 \approx 15.999 \frac{g}{mol}$ standard atomic weight of oxygen
+
 
 ## References
 
@@ -102,6 +106,10 @@ Thermal mass aggregate
 * Soap Stone, [](), 
 * ...
 * ...
+
+Orgs
+* Commission on Isotopic Abundances and Atomic Weights
+* IUPAC
 
 News Papers
 * ‘A very Finnish thing’: Big sand battery starts storing wind and solar energy in crushed soapstone [WS](https://www.euronews.com/green/2025/06/15/sand-batteries-could-be-key-breakthrough-in-storing-solar-and-wind-energy-year-round), Updated 15/06/2025, Euro News, 
