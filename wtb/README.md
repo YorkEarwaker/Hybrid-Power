@@ -1,4 +1,4 @@
-# Wind trubine wtb
+# Wind turbine wtb
 
 ## Notes
 
@@ -26,4 +26,4 @@ Designs
 
 References
 
-* Wind turbine
+* Wind turbine, [WS](https://en.wikipedia.org/wiki/Wind_turbine), wind kinetic energy conversion to electrical energy
