@@ -9,12 +9,16 @@ Objectivs
 
 Use Cases
 * As a power source for AGW weather stations and wireless sensor networks
+* Aa a power source for hybrid energy units for climate refugee camps
+* As a power source for urban poor for energy flex 
+* As a energy source paired with portable power bank
 * ...
 
 
 ## Status
 TODO
 * <todo: consider, build geodesic wind turbine icosahedron >
+* <todo: consider, integrate geodesic geowind turbine with portable power bank battery >
 
 DONE
 * <done: consider, intent to commit>
