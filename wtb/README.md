@@ -24,6 +24,6 @@ DONE
 Designs
 * GeoWind GW1200 Geodesic Vertical Axis Wind Turbine, Energy / Industrial / Sustainability [WS](https://geowind.kr/), IF [WS](https://ifdesign.com/en/winner-ranking/project/geowind-gw1200-geodesic-vertical-axis-wind-turbine/765799)
 
-References
+## References
 
 * Wind turbine, [WS](https://en.wikipedia.org/wiki/Wind_turbine), wind kinetic energy conversion to electrical energy
